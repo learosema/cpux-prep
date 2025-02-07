@@ -1,4 +1,10 @@
-# CPUX-F Cheatsheet
+# CPUX-F Prep
+
+Dies ist Lea's Versuch, sich auf die Prüfung für CPUX-F vorzubereiten. Sie nimmt sich jeden Tag etwas Zeit, um die Inhalte aus dem Lernmaterial für sich zusammenzufassen.
+
+## Lernmaterialien
+
+- [Basiswissen Usability und User Experience, 2. Auflage](https://dpunkt.de/produkt/basiswissen-usability-und-user-experience-2/)
 
 ## Grundlagen
 
