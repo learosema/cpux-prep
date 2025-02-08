@@ -1,13 +1,8 @@
 # CPUX-F Prep
 
-Dies ist Lea's Versuch, sich auf die Prüfung für CPUX-F vorzubereiten.
-Sie nimmt sich jeden Tag etwas Zeit, um die Inhalte aus dem Lernmaterial
-für sich zusammenzufassen.
-
-## Lernmaterialien
-
-- [ISO 9241](https://din.de)
-- [Basiswissen Usability und User Experience, 2. Auflage](https://dpunkt.de/produkt/basiswissen-usability-und-user-experience-2/)
+Dies ist Lea’s Versuch, sich auf die Prüfung für CPUX-F vorzubereiten. Sie nimmt
+sich jeden Tag etwas Zeit, um die Inhalte aus dem
+[Lernmaterial](quellenangaben.md) für sich zusammenzufassen.
 
 ## Grundlagen
 
@@ -19,6 +14,7 @@ für sich zusammenzufassen.
 - [User Experience](definitionen-und-normen/user-experience.md)
 - [Barrierefreiheit](definitionen-und-normen/barrierefreiheit.md)
 - [Vermeidung von Schäden durch die Benutzung](definitionen-und-normen/vermeidung-schaeden.md)
+- [Interaktives System](definitionen-und-normen/interaktives-system.md)
 
 ### Weitere Themen (TODO)
 

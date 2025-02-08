@@ -5,7 +5,7 @@
 
 ul {
   padding:0;
-  padding-block-start: 1em;
+  padding-inline-start: 1.4em;
 }
 
 *:focus-visible {
