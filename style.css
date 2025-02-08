@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 *:focus-visible {
@@ -13,14 +14,20 @@ html {
 
 body {
   font-family: system-ui, sans-serif;
+  line-height: 1.4;
+
   margin: 0;
   display: flex;
   flex-direction: column;
 }
 
-main {
-  padding: 1rem;
+h1, h2, h3, .caption-bold {
+  font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+  line-height: 1;
+  font-weight: 900;
 }
+
+
 
 header {
   background: #436;
@@ -31,6 +38,15 @@ header {
 .logo {
   display: block;
   max-width: 360px;
+}
+
+.wrapper {
+  width: min(100% - 2rem, var(--container-max, 100ch));
+  margin-inline: auto;
+}
+
+.flow > * + * {
+  margin-block-start: var(--flow-space, 1em);
 }
 
 footer {
