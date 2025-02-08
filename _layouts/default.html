@@ -33,5 +33,10 @@
     <footer>
       made with love by <a rel="me" href="https://lea.lgbt/@lea" target="_blank">Lea</a>
     </footer>
+    <script type="module">
+      import mermaid from './mermaid.esm.min.mjs';
+      mermaid.initialize({startOnLoad:true,theme:'neutral'})
+      await mermaid.run({querySelector:'code.language-mermaid'})
+    </script>
   </body>
 </html>
