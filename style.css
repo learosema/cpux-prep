@@ -27,6 +27,7 @@ body {
 }
 
 h1, h2, h3, .caption-bold {
+  --flow-space: 2em;
   font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
   line-height: 1;
   font-weight: 900;
