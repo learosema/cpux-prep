@@ -27,13 +27,17 @@ h1, h2, h3, .caption-bold {
   font-weight: 900;
 }
 
-
-
 header {
   background: #436;
   color: #fff;
   padding: 2rem 1rem;
+  font-size: 4em;
 }
+
+main {
+  margin: 4rem 0;
+}
+
 
 .logo {
   display: block;
