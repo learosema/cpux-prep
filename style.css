@@ -31,7 +31,11 @@ header {
   background: #436;
   color: #fff;
   padding: 2rem 1rem;
-  font-size: 4em;
+  font-size: 3em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
 }
 
 main {
