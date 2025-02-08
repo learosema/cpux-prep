@@ -18,7 +18,7 @@ für sich zusammenzufassen.
 - [Usability](definitionen-und-normen/usability.md)
 - [User Experience](definitionen-und-normen/user-experience.md)
 - [Barrierefreiheit](definitionen-und-normen/barrierefreiheit.md)
-- [Vermeidung von Schäden durch die Benutzung]()
+- [Vermeidung von Schäden durch die Benutzung](definitionen-und-normen/vermeidung-schaeden.md)
 
 ### Weitere Themen (TODO)
 
