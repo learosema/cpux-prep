@@ -16,13 +16,17 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Vermeidung von Schäden durch die Benutzung](definitionen-und-normen/vermeidung-schaeden.md)
 - [Interaktives System](definitionen-und-normen/interaktives-system.md)
 
-### Weitere Themen (TODO)
+### Prinzipien
 
+- [Interaktionsprinzipien](prinzipien/interaktionsprinzipien.md)
+- [Gestaltgesetze](prinzipien/gestaltgesetze.md) (nicht relevant für CPUX-F)
+
+### Weitere Themen (TODO, 404 not found)
+
+- [Typographie](prinzipien/typographie.md) (nicht relevant für CPUX-F)
+- [Farbenlehre](prinzipien/farbenlehre.md) (nicht relevant für CPUX-F)
 - [User Research](user-research.html)
-- [Barrierefreiheit](barrierefreiheit.html)
 - [Integration in den Entwicklungsprozess](integration-entwicklungsprozess.html)
-- [Interaktionsprinzipien](interaktionsprinzipien.html)
-- [Gestaltgesetze, Farbenlehre und Typographie](gestaltgesetze.html)
 - [Tools](tools.html)
 - [Usability Testing](usability-testing.html)
 - [UX KPIs](ux-kpis.html)

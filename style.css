@@ -19,8 +19,8 @@ html {
 
 body {
   font-family: system-ui, sans-serif;
-  line-height: 1.4;
-
+  font-size: 1.125rem;
+  line-height: 1.75;
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -36,7 +36,7 @@ header {
   background: #436;
   color: #fff;
   padding: 2rem 1rem;
-  font-size: 3em;
+  font-size: 2.5em;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
