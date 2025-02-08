@@ -68,6 +68,7 @@ table {
   
   td, th {
     border: 1px solid currentColor;
+    padding: 0.25rem 0.5rem;
   }
 
   th { 
