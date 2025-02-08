@@ -45,7 +45,7 @@ main {
 
 .logo {
   display: block;
-  max-width: 360px;
+  width: 200px;
 }
 
 .wrapper {
