@@ -3,6 +3,11 @@
   margin: 0;
 }
 
+ul {
+  padding:0;
+  padding-block-start: 1em;
+}
+
 *:focus-visible {
   outline: 2px solid currentColor;
   outline-offset: 4px;
