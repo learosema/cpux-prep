@@ -15,6 +15,14 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Barrierefreiheit](definitionen-und-normen/barrierefreiheit.md)
 - [Vermeidung von Schäden durch die Benutzung](definitionen-und-normen/vermeidung-schaeden.md)
 - [Interaktives System](definitionen-und-normen/interaktives-system.md)
+- [Benutzer-System-Interaktion](definitionen-und-normen/benutzer-system-interaktion.md)
+- [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
+
+### Menschzentrierte Gestaltung
+
+- [Lernziele](menschzentrierte-gestaltung/lernziele.md)
+- [Definition](menschzentrierte-gestaltung/definition.md)
+- [Grundsätze](menschzentrierte-gestaltung/grundsaetze.md)
 
 ### Prinzipien
 
