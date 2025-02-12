@@ -34,7 +34,7 @@ block-beta
             block:eez
                 Effizienz
                 Effektivität
-                Zufriedenstellung
+                Zufriedenstellung während der Benutzung
             end
         end
         block:afterwards
