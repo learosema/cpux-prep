@@ -35,6 +35,15 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Exkurs: Integration in den Entwicklungsprozess](menschzentrierte-gestaltung/exkurs-integration-in-den-entwicklungsprozess.md)
 
 </div>
+
+<div class="card flow" markdown="1">
+
+### Planung einer menschzentrierten Gestaltung
+
+- [Lernziele](planung-hcd/lernziele.md)
+- [Menschzentrierte Qualitätsziele](planung-hcd/qualitaetsziele.md)
+
+</div>
 <div class="card flow" markdown="1">
 
 ### Prinzipien
