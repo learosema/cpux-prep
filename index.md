@@ -7,7 +7,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 ## Grundlagen
 
 <div class="grid">
-<div class="card">
+<div class="card"><div markdown="1">
 
 ### Definitionen und Normen
 
@@ -21,8 +21,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Benutzer-System-Interaktion](definitionen-und-normen/benutzer-system-interaktion.md)
 - [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
 
-</div>
-<div class="card">
+</div></div>
+<div class="card"><div markdown="1">
 
 ### Menschzentrierte Gestaltung
 
@@ -31,15 +31,15 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Grundsätze](menschzentrierte-gestaltung/grundsaetze.md)
 - [Menschzentrierte Gestaltung im Überblick](menschzentrierte-gestaltung/ueberblick.md)
 
-</div>
-<div class="card">
+</div></div>
+<div class="card"><div markdown="1">
 
 ### Prinzipien
 
 - [Interaktionsprinzipien](prinzipien/interaktionsprinzipien.md)
 - [Gestaltgesetze](prinzipien/gestaltgesetze.md) (nicht relevant für CPUX-F)
 
-</div>
+</div></div>
 </div>
 
 ### Weitere Themen (TODO, 404 not found)
