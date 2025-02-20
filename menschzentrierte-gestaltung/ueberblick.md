@@ -31,7 +31,7 @@ genutzt werden und welche typisch für die Kommunikation von Erkenntnissen
 und Ergebnissen im Projektteam und mit Stakeholdern verwendet werden.
 
 <div class="grid">
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Planung
 
@@ -41,7 +41,7 @@ Für das Engineering:
 - Menschzentrierte Qualitätsziele
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Nutzungskontext
         
@@ -59,7 +59,7 @@ Für die Kommunikation an Stakeholder:
 - User Journey Maps des gegenwärtigen Nutzungskontextes
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Nutzungsanforderungen
 
@@ -69,7 +69,7 @@ Für das Engineering:
 - Nutzungsanforderungen
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Lösungen
 
@@ -90,7 +90,7 @@ Für die Kommunikation an Stakeholder:
 - User Journey Maps unter Berücksichtigung des interaktiven Systems
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Evaluation
 

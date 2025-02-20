@@ -7,7 +7,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 ## Grundlagen
 
 <div class="grid">
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Definitionen und Normen
 
@@ -22,7 +22,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Menschzentrierte Gestaltung
 
@@ -33,7 +33,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [HCD-Reife](menschzentrierte-gestaltung/hcd-reife.md)
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Prinzipien
 

@@ -22,7 +22,7 @@ Es gibt seit Ende 2022 zusätzlich das UXQB
 Für die Feststellung der Ist-Situation im Unternehmen gibt es HCD-Reifegrade.
 
 <div class="grid">
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Unvollständig
 
@@ -34,7 +34,7 @@ der Usability zu treffen, geschieht nichts. Usability ist gut, aber bitte ohne
 Aufwand und ohne Verpflichtung, sie auch zu liefern. 
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Ausgeführt
 
@@ -44,7 +44,7 @@ auch nicht korrekt) ausgeführt.
 *Usability wird von enthusiastischen Einzelpersonen mit Ad-hoc-Prozessen erreicht.*
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Gemanaged
 
@@ -55,7 +55,7 @@ kontrolliert und gepflegt.
 *Der Prozess wird geplant, überwacht und angepasst.*
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Etabliert
 
@@ -64,7 +64,7 @@ Es gibt Standards für die Durchführung von HCD-Aktivitäten, Styleguides und
 Regeln für die Überwachung und der Einhaltung  des Qualitätssystems.
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Vorhersagbar
 
@@ -78,7 +78,7 @@ Korrekturmaßnahmen ergriffen.
 die relevanten Geschäftsziele unterstützen.
 
 </div></div>
-<div class="card"><div markdown="1">
+<div class="card flow"><div markdown="1">
 
 ### Innovativ
 
