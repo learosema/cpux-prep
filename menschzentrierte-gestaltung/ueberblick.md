@@ -30,55 +30,73 @@ Nachfolgend ein Überblick, welche HCD-Deliverables vorrangig für das
 genutzt werden und welche typisch für die Kommunikation von Erkenntnissen
 und Ergebnissen im Projektteam und mit Stakeholdern verwendet werden.
 
-```mermaid
-mindmap
-    Planung
-        Eng_Planung[Für das Engineering]
-            Menschzentrierte Aktivitäten im Projektplan
-            Menschzentrierte Qualitätsziele
-```
+<div class="grid">
+<div class="card"><div markdown="1">
 
-```mermaid
-mindmap
-    Nutzungskontext
-        Nutzungskontextbeschreibung
-            Eng_Nutzungskontext[Für das Engineering]
-                Benutzergruppenprofile
-                Aufgabenmodelle des gegenwärtigen Nutzungskontextes
-                Ist-Szenarien
-            Com_Nutzungskontext[Für die Kommunikation]
-                Personas
-                User Journey Maps des gegenwärtigen Nutzungskontextes
-```
+### Planung
 
-```mermaid
-mindmap
-    Nutzungsanforderungen
-        Eng_Anforderungen[Für das Engineering]
-            Erfordernisse
-            Nutzungsanforderungen
-```
+Für das Engineering:
 
-```mermaid
-mindmap
-    Lösungen
-        Eng_Lösungen[Für das Engineering]
-            Nutzungsszenarien
-            Aufgabenmodelle für die Gestaltung
-            Informationsarchitektur
-            Navigationsstruktur
-            Styleguide
-            Wireframes
-            Low-Fidelity-Prototypen
-            High-Fidelity-Prototypen
-        Com_Lösungen[Für die Kommunikation]
-            Storyboards
-            User Journey Maps unter Berücksichtigung des interaktiven Systems
-```
+- Menschzentrierte Aktivitäten im Projektplan
+- Menschzentrierte Qualitätsziele
 
-```mermaid
-mindmap
-    Evaluation
-        Eng_Evaluation[Für das Engineering]
-            Usability-Evaluierungsbericht
-```
+</div></div>
+<div class="card"><div markdown="1">
+
+### Nutzungskontext
+        
+- Nutzungskontextbeschreibung (Oberbegriff)
+
+Für das Engineering:
+
+- Benutzergruppenprofile
+- Aufgabenmodelle des gegenwärtigen Nutzungskontextes
+- Ist-Szenarien
+
+Für die Kommunikation an Stakeholder:
+
+- Personas
+- User Journey Maps des gegenwärtigen Nutzungskontextes
+
+</div></div>
+<div class="card"><div markdown="1">
+
+### Nutzungsanforderungen
+
+Für das Engineering:
+
+- Erfordernisse
+- Nutzungsanforderungen
+
+</div></div>
+<div class="card"><div markdown="1">
+
+### Lösungen
+
+Für das Engineering:
+
+- Nutzungsszenarien
+- Aufgabenmodelle für die Gestaltung
+- Informationsarchitektur
+- Navigationsstruktur
+- Styleguide
+- Wireframes
+- Low-Fidelity-Prototypen
+- High-Fidelity-Prototypen
+
+Für die Kommunikation an Stakeholder:
+
+- Storyboards
+- User Journey Maps unter Berücksichtigung des interaktiven Systems
+
+</div></div>
+<div class="card"><div markdown="1">
+
+### Evaluation
+
+Für das Engineering:
+
+- Usability-Evaluierungsbericht
+
+</div></div>
+</div>
