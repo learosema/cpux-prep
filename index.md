@@ -50,7 +50,6 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Typographie](prinzipien/typographie.md) (nicht relevant für CPUX-F)
 - [Farbenlehre](prinzipien/farbenlehre.md) (nicht relevant für CPUX-F)
 - [User Research](user-research.html)
-- [Integration in den Entwicklungsprozess](integration-entwicklungsprozess.html)
 - [Tools](tools.html)
 - [Usability Testing](usability-testing.html)
 - [UX KPIs](ux-kpis.html)
