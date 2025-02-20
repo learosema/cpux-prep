@@ -30,6 +30,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Definition](menschzentrierte-gestaltung/definition.md)
 - [Grundsätze](menschzentrierte-gestaltung/grundsaetze.md)
 - [Menschzentrierte Gestaltung im Überblick](menschzentrierte-gestaltung/ueberblick.md)
+- [HCD-Reife](menschzentrierte-gestaltung/hcd-reife.md)
 
 </div></div>
 <div class="card"><div markdown="1">
