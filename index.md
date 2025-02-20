@@ -6,6 +6,9 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 
 ## Grundlagen
 
+<div class="grid">
+<div class="card">
+
 ### Definitionen und Normen
 
 - [ISO 9241](definitionen-und-normen/iso-9241.md)
@@ -18,6 +21,9 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Benutzer-System-Interaktion](definitionen-und-normen/benutzer-system-interaktion.md)
 - [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
 
+</div>
+<div class="card">
+
 ### Menschzentrierte Gestaltung
 
 - [Lernziele](menschzentrierte-gestaltung/lernziele.md)
@@ -25,10 +31,16 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Grundsätze](menschzentrierte-gestaltung/grundsaetze.md)
 - [Menschzentrierte Gestaltung im Überblick](menschzentrierte-gestaltung/ueberblick.md)
 
+</div>
+<div class="card">
+
 ### Prinzipien
 
 - [Interaktionsprinzipien](prinzipien/interaktionsprinzipien.md)
 - [Gestaltgesetze](prinzipien/gestaltgesetze.md) (nicht relevant für CPUX-F)
+
+</div>
+</div>
 
 ### Weitere Themen (TODO, 404 not found)
 
@@ -40,3 +52,4 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Usability Testing](usability-testing.html)
 - [UX KPIs](ux-kpis.html)
 - [Green UX](green-ux.html)
+

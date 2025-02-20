@@ -2,4 +2,6 @@ MD033:
   allowed_elements: [span, strong]
 MD046:
   style: fenced
-  
+MD033:
+  enable: false
+

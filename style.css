@@ -1,3 +1,8 @@
+:root {
+  --border-color: light-dark(#ccc, #555);
+}
+
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -61,6 +66,22 @@ main {
 
 .flow > * + * {
   margin-block-start: var(--flow-space, 1em);
+}
+
+.grid {
+  --min: 25ch;
+  --gap: 1rem;
+
+  display: grid;
+  grid-gap: var(--gap);
+  /* min() with 100% prevents overflow
+  in extra narrow spaces */
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--min)), 1fr));
+}
+
+.card {
+  border: 1px solid var(--border-color, #777);
+  padding: 1em;
 }
 
 footer {
