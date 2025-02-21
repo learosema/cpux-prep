@@ -15,7 +15,8 @@ Es gibt seit Ende 2022 zusätzlich das UXQB
 
 > Das Verständnis und die Umsetzung eines systematischen Prozesses menschzentrierter
 > Gestaltung in einer Organisation, um strategische Unternehmensziele zu erreichen.
-
+>
+> Basiswissen Usability und User Experience
 
 ## HCD-Reifegrade
 
@@ -43,7 +44,7 @@ auch nicht korrekt) ausgeführt.
 
 *Usability wird von enthusiastischen Einzelpersonen mit Ad-hoc-Prozessen erreicht.*
 
-</div></div>
+</div>
 <div class="card flow" markdown="1">
 
 ### Gemanaged
@@ -63,7 +64,7 @@ Alle Projekte erfüllen die Anforderungen des HCD-Qualitätssystems.
 Es gibt Standards für die Durchführung von HCD-Aktivitäten, Styleguides und
 Regeln für die Überwachung und der Einhaltung  des Qualitätssystems.
 
-</div></div>
+</div>
 <div class="card flow" markdown="1">
 
 ### Vorhersagbar
