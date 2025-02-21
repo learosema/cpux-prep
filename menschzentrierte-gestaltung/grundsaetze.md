@@ -7,7 +7,7 @@ definiert. Sie lauten:
 
 ## 1. Die Gestaltung beruht auf einem umfassenden Verständnis des Nutzerkontextes
 
-Der *Nutzerkontext* bezieht sich auf den Benutzer, Arbeitsaufgaben und Arbeitsumgebungen.
+Der [Nutzerkontext](../nutzungskontext-definitionen/nutzungskontext.md) bezieht sich auf den Benutzer, Arbeitsaufgaben und Arbeitsumgebungen.
 Ohne dieses Verständnis kann keine gute UX erreicht werden.
 
 ## 2. Benutzer sind während der Gestaltung und Entwicklung einbezogen

@@ -3,7 +3,7 @@
 Das Verständnis für menschzentrierte Gestaltung muss im Unternehmen schrittweise etabliert werden.
 Prozesse der menschzentrierten Gestaltung müssen schrittweise integriert werden.
 
-## Richtlinien, weitere Resourcen:
+## Richtlinien, weitere Ressourcen:
 
 - ISO 27500: The human-centered organization - Rationale and general principles
 - ISO 27501: The human-centered organization - Guidance for managers
@@ -29,7 +29,7 @@ Für die Feststellung der Ist-Situation im Unternehmen gibt es HCD-Reifegrade.
 Der HCD-Prozess ist nicht umgesetzt oder erreicht seinen Prozesszweck nicht.
 
 Beispiel: Produktmanager sagen, Usability sei ihnen wichtig, aber wenn 
-es darum geht Resourcen bereitzustellen oder unbequeme Entscheidungen zugunsten
+es darum geht Ressourcen bereitzustellen oder unbequeme Entscheidungen zugunsten
 der Usability zu treffen, geschieht nichts. Usability ist gut, aber bitte ohne
 Aufwand und ohne Verpflichtung, sie auch zu liefern. 
 

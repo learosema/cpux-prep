@@ -15,6 +15,6 @@ erreichen.
 Auch ein einzelnes Produkt ist damit bereits ein interaktives System.
 
 Es ist wichtig zu unterscheiden, was zum System gehört, und was im Gegensatz
-dazu zu den verwendeten Resourcen gehört.
+dazu zu den verwendeten Ressourcen gehört.
 
 Mehr dazu unter "Den Nutzungskontext verstehen und festlegen"

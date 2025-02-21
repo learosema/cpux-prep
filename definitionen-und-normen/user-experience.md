@@ -3,8 +3,10 @@
 > Die Wahrnehmungen und Reaktionen eines Benutzers, die sich aus der
 > tatsächlichen Benutzung und/oder der erwarteten Benutzung eines
 > interaktiven Systems ergeben.
+>
+> Basiswissen Usability und User Experience
 
-User Experience betrachtet die subjektive Sicht des Nutzers auf das interaktive System,
+User Experience betrachtet die subjektive Sicht des Nutzers auf das interaktive System
 einschließlich Erwartungen vor der Benutzung, tatsächliche Benutzung, und nach
 der Benutzung
   
@@ -104,7 +106,6 @@ block-beta
             Persönlichkeit
             Behinderungen
         end
-        Bugs?
         Support["Service-\nDienst-\nleistungen"]
     end
 ```

@@ -4,6 +4,8 @@
 > ware), die Informationen und Steuerelemente zur Verfügung stellen, die
 > für den Benutzer notwendig sind, um bestimmte Aufgaben mit dem
 > interaktiven System zu erledigen.
+>
+> Basiswissen Usability und User Experience
 
 An der Benutzungsschnittstelle (englisch »User Interface«) eines interaktiven
 Systems entfaltet sich die Usability und User Experience für den Benutzer.

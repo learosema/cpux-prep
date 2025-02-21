@@ -46,6 +46,28 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 </div>
 <div class="card flow" markdown="1">
 
+### Nutzungskontext: Definitionen
+
+- [Lernziele](nutzungskontext-definitionen/lernziele.md)
+- [Nutzungskontext](nutzungskontext-definitionen/nutzungskontext.md)
+- [Benutzer](nutzungskontext-definitionen/benutzer.md)
+- [Ziele und Aufgaben](nutzungskontext-definitionen/ziele-und-aufgaben.md)
+- [Ressourcen](nutzungskontext-definitionen/ressourcen.md)
+- [Umgebungen](nutzungskontext-definitionen/umgebungen.md)
+
+</div>
+<div class="card flow" markdown="1">
+
+### Nutzungskontext: Analyse
+
+- [Lernziele](nutzungskontext-analyse/lernziele.md)
+- [Methoden](nutzungskontext-analyse/methoden.md)
+- [Interviews](nutzungskontext-analyse/interviews.md)
+- [Beobachtungen](nutzungskontext-analyse/beobachtungen.md)
+
+</div>
+<div class="card flow" markdown="1">
+
 ### Prinzipien
 
 - [Interaktionsprinzipien](prinzipien/interaktionsprinzipien.md)
@@ -63,4 +85,3 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Usability Testing](usability-testing.html)
 - [UX KPIs](ux-kpis.html)
 - [Green UX](green-ux.html)
-

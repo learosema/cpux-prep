@@ -3,6 +3,8 @@
 > Das Ausmaß, in dem negative Auswirkungen auf die Gesundheit, Sicherheit,
 > Finanzen oder Umwelt, die sich aus der Benutzung des interaktiven Systems
 > ergeben, minimiert werden.
+>
+> Basiswissen Usability und User Experience
 
 Welche Schäden können durch die Benutzung entstehen? Beispiele:
 

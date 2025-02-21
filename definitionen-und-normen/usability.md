@@ -17,6 +17,10 @@ Der Begriff ist in DIN EN ISO 9241-11 definiert.
 
 ## Ziele
 
+> Das beabsichtigte Ergebnis.
+>
+> Basiswissen Usability und User Experience
+
 Ziele können sowohl sachlich (=pragmatisch) als auch emotional (=hedonisch) sein.
 
 Beispiele für Ziele von Benutzern:
@@ -44,10 +48,10 @@ ablaufen. Mit minimalem Aufwand zum Ziel.
 
 ### Anmerkungen
 
-- Resourcen umfassen u.a. Zeit, menschliche Anstrengung, finanzielle
-  und materielle Resourcen
+- Ressourcen umfassen u.a. Zeit, menschliche Anstrengung, finanzielle
+  und materielle Ressourcen
 - Effizienz ist ein Attribut von Usability, das auf die Erreichung eines Ziels
-  mit akzeptablem Einsatz von Resourcen verweist
+  mit akzeptablem Einsatz von Ressourcen verweist
 
 ### Beispiele für Effizienz
 

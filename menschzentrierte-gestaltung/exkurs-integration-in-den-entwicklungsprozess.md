@@ -1,5 +1,8 @@
 # Integration von HCD in den Entwicklungsprozess
 
+<strong>Hinweis:</strong> Der Inhalt dieses Abschnitts ist nicht 
+prüfungsrelevant, ist aber als Vertiefung hilfreich.
+
 Seit dem Einzug der agilen Entwicklung in die Projekte wird immer wieder 
 diskutiert ob agile Entwicklung das eine richtige Vorgehen ist und alle anderen
 Vorgehensweisen falsch sind.
@@ -136,7 +139,7 @@ Unabhängig davon, ob ein Projekt eher klassisch oder eher agil durchgeführt
 wird, gibt es naturgemäß Bedarf für Änderungen, sobald Projektergebnisse 
 evaluiert werden, insbesondere bei UIs durch Usability Tests mit Benutzern.
 
-Darum sollten in jedem Fall explizit Resourcen für Iterationen eingeplant werden.
+Darum sollten in jedem Fall explizit Ressourcen für Iterationen eingeplant werden.
 So können Überarbeitungen aufgrund erkannter Probleme an 
 Projektergebnissen vorgenommen werden.
 
