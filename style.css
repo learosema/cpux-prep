@@ -102,3 +102,12 @@ table {
     border-bottom-width: 2px;
   }
 }
+
+blockquote {
+  padding: 1rem;
+  background: light-dark(#ebf, #213);
+}
+
+blockquote > * + * {
+  margin-block-start: 1em;
+}
