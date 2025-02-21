@@ -12,7 +12,7 @@ Beobachtungen und Fokusgruppen erhoben wurden, müssen dokumentiert werden.
 
 Dazu dient die Nutzungskontextbeschreibung.
 
-Nur so können die Erkenntnisse im Entwicklungsprojekt systematisch
+So können die Erkenntnisse im Entwicklungsprojekt systematisch
 weiterverarbeitet werden.
 
 Es ist ein Sammelbegriff für unterschiedliche Darlegungsformen,
@@ -25,6 +25,8 @@ Fünf Darlegungsformen sind im CPUX-F-Curriculum enthalten:
 - Aufgabenmodell
 - Persona
 - User Journey Map
+
+## Einsatz im Projekt
 
 Es müssen nicht alle Darlegungsformen im Projekt verwendet werden.
 Diese Nutzungskontextbeschreibungen dienen immer vorrangig einem von
@@ -43,6 +45,8 @@ Personas und User Journey Maps.
 Als Basis für weiter HCD-Aktivitäten eignen sich insbesondere
 Ist-Szenarien, Benutzergruppenprofile und Aufgabenmodelle.
 
+## Überblicks-Nutzungskontextbeschreibung
+
 Eine weitere Darlegungsformist die Überblicks-Nutzungskontextbeschreibung.
 Sie ist nicht im CPUX-F-Curriculum enthalten, jedoch im CPUX-UR-Curriculum.
 
@@ -59,8 +63,7 @@ Ihre zentralen Merkmale sind (entnommen aus dem CPUX-UR-Curriculum):
 - Überblicks-Nutzungskontextbeschreibungen sind besonders hilfreich während
   der Planung von Nutzungskontextanalysen. Sie sind aber kein Ersatz für
   detaillierte Nutzungskontextbeschreibungen.
-- Überblicks-Nutzungskontextbeschreibungen können auch nach der Durchführung
-  von Nutzungskontextanalysen zur Kommunikation an Stakeholder
+- Überblicks-Nutzungskontextbeschreibungen zur Kommunikation an Stakeholder
   verwendet werden.
 
 Es gibt über die Überblicks-Nutzungskontextbeschreibung hinaus weitere

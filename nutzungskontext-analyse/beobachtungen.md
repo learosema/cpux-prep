@@ -13,6 +13,8 @@ Informationen über den Nutzungskontext.
 Bei der Beobachtung bleibt der
 Beobachter im Hintergrund und tritt so weit wie möglich nicht in Erscheinung
 
+## Ablauf von Beobachtungen
+
 Naturgemäß findet die Beobachtung an dem Ort statt, wo die Benutzer die
 Aufgaben erledigen, die vom interaktiven System unterstützt werden
 sollen.
@@ -21,18 +23,25 @@ Der Beobachter stellt nur dann eine Zwischenfrage, wenn ohne die Beantwortung
 der Frage Verständnisprobleme über die zu beobachteten Sachverhalte
 entstehen.
 
+Beobachtungen können auch remote durchgeführt werden, zum Beispiel auf einer
+Webseite mithilfe von Tracking.
+
+## Vorteile von Beobachtungen
+
 Beobachtungen sind besonders nützlich, wenn sich die Benutzer in ihrem Kontext
 bewegen.
 
 Auch für die Beobachten wird eine Liste von Fragen zur Vorbereitung benötigt.
-Diese Fragen werden jedoch nicht gestellt sondern dienen lediglich als
+Diese Fragen werden jedoch nicht gestellt. Sie dienen als
 Leitfaden, um den Fokus der Beobachtung richtig zu setzen.
 
 Viele Projektleiter scheuen Beobachtungen, da diese meist mehr Zeitaufwand
 erfordern als Interviews.
 
-Eine Beobachtung bringt jedoch immer objektive Erkenntnisse, die Informationen
-aus Interviews vervollständigen bzw. bestätigen.
+Eine Beobachtung bringt jedoch immer objektive Erkenntnisse. Damit können
+Informationen aus Interviews vervollständigt bzw. bestätigt werden.
+
+## Kombination aus Interviews und Beobachtungen
 
 Oft ist man als User Experience Professional mit der Aussage konfrontiert:
 »Kannst du die nicht einfach interviewen?«.
@@ -44,8 +53,7 @@ anschließend eine Beobachtung zur Absicherung der Interviewdaten vornehmen.
 Dieses kombinierte Vorgehen findet ein höheres Verständnis bei denjenigen,
 die budgetverantwortlich sind.
 
-Beobachtungen können auch remote durchgeführt werden, zum Beispiel auf einer
-Webseite mithilfe von Tracking.
+## Tiefergehende Details
 
 Im CPUX-UR Curriculum und im Buch "Praxiswissen User Requirements" gibt es
 weitere Details zum Thema Beobachtungen. Dort werden folgende Formen

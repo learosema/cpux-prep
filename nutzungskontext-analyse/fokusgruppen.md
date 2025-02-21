@@ -12,6 +12,8 @@ Es ist eine Gruppendiskussion und ein Moderator leitet die
 Teilnehmer durch die Fragen. Typischerweise ist auch ein ein
 Protokollant anwesend, der die Aussagen dokumentiert.
 
+## Vor- und Nachteile von Fokusgruppen
+
 Fokusgruppen sind gut, um ein tiefes Verständnis des Nutzungskontextes
 unter Berücksichtigung verschiedener Perspektiven zu gewinnen.
 
@@ -21,6 +23,8 @@ kommuniziert werden.
 
 Es bilden sich auch Meinungen bei Teilnehmenden im Verlauf der Diskussion
 aufgrund von Aussagen der Anderen, so dass Teilnehmer beeinflusst werden.
+
+## Fokusgruppen im Vergleich zu Interviews und Beobachtungen
 
 Kontextuelle Interviews und Beobachtungen sind für UX Professionals besser
 planbar, durchführbar, dokumentierbar und auswertbar als Fokusgruppen.
