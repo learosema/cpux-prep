@@ -1,14 +1,16 @@
 # HCD-Reife einer Organisation
 
-Das Verständnis für menschzentrierte Gestaltung muss im Unternehmen schrittweise etabliert werden.
+Das Verständnis für menschzentrierte Gestaltung muss im Unternehmen schrittweise
+etabliert werden.
+
 Prozesse der menschzentrierten Gestaltung müssen schrittweise integriert werden.
 
-## Richtlinien, weitere Ressourcen:
+## Richtlinien, weitere Ressourcen
 
 - ISO 27500: The human-centered organization - Rationale and general principles
 - ISO 27501: The human-centered organization - Guidance for managers
 
-Es gibt seit Ende 2022 zusätzlich das UXQB 
+Es gibt seit Ende 2022 zusätzlich das UXQB
 [CPUX-M: Essentials in UX and HCD Management](https://www.uxqb.org/de/ux-training-und-zertifizierung/cpux-m/).
 
 ## HCD-Reife
@@ -29,17 +31,17 @@ Für die Feststellung der Ist-Situation im Unternehmen gibt es HCD-Reifegrade.
 
 Der HCD-Prozess ist nicht umgesetzt oder erreicht seinen Prozesszweck nicht.
 
-Beispiel: Produktmanager sagen, Usability sei ihnen wichtig, aber wenn 
+Beispiel: Produktmanager sagen, Usability sei ihnen wichtig, aber wenn
 es darum geht Ressourcen bereitzustellen oder unbequeme Entscheidungen zugunsten
 der Usability zu treffen, geschieht nichts. Usability ist gut, aber bitte ohne
-Aufwand und ohne Verpflichtung, sie auch zu liefern. 
+Aufwand und ohne Verpflichtung, sie auch zu liefern.
 
 </div>
 <div class="card flow" markdown="1">
 
 ### Ausgeführt
 
-Einige HCD-Aktivitäten werden von enthusiastischen Einzelpersonen (korrekt oder 
+Einige HCD-Aktivitäten werden von enthusiastischen Einzelpersonen (korrekt oder
 auch nicht korrekt) ausgeführt.
 
 *Usability wird von enthusiastischen Einzelpersonen mit Ad-hoc-Prozessen erreicht.*
@@ -49,7 +51,7 @@ auch nicht korrekt) ausgeführt.
 
 ### Gemanaged
 
-Der HCD-Prozess ist in einer geführten Weise implementiert. Er wird geplant, 
+Der HCD-Prozess ist in einer geführten Weise implementiert. Er wird geplant,
 überwacht und angepasst und seine Arbeitsprodukte sind angemessen etabliert,
 kontrolliert und gepflegt.
 
@@ -69,13 +71,13 @@ Regeln für die Überwachung und der Einhaltung  des Qualitätssystems.
 
 ### Vorhersagbar
 
-Die Erfordernisse werden quantifiziert, Metriken werden gesammelt und 
+Die Erfordernisse werden quantifiziert, Metriken werden gesammelt und
 analysiert.
 
-Wenn eine Metrik erheblich von den Erfordernissen abweicht, werden 
+Wenn eine Metrik erheblich von den Erfordernissen abweicht, werden
 Korrekturmaßnahmen ergriffen.
 
-*Anmerkung:* Es sind Ziele für Prozzessinovation definiert worden, die 
+*Anmerkung:* Es sind Ziele für Prozzessinovation definiert worden, die
 die relevanten Geschäftsziele unterstützen.
 
 </div>
@@ -85,7 +87,7 @@ die relevanten Geschäftsziele unterstützen.
 
 Der HCD-Prozess läuft perfekt und lenkt die Unternehmensstrategie.
 Beispielsweise beruhen die strategischen Unternehmensziele und die
-Unternehmensstrategie selbst nicht nur auf finanziellen und 
+Unternehmensstrategie selbst nicht nur auf finanziellen und
 personellen Zielen, sondern auch auf User Research und der aktiven
 Einbindung der User.
 

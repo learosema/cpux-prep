@@ -13,7 +13,7 @@ Es besteht keine Garantie auf Richtigkeit oder Vollständigkeit.
 
 ## Fehler gefunden?
 
-Du kannst zum Beispiel die In-Place-Editierfunktion von Github 
-verwenden und hier einen Pull Request erstellen: 
+Du kannst zum Beispiel die In-Place-Editierfunktion von Github
+verwenden und hier einen Pull Request erstellen:
 
 <https://github.com/learosema/cpux-prep/>
