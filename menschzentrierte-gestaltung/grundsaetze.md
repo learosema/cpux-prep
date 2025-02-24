@@ -7,7 +7,9 @@ definiert. Sie lauten:
 
 ## 1. Die Gestaltung beruht auf einem umfassenden Verständnis des Nutzerkontextes
 
-Der [Nutzerkontext](../nutzungskontext-definitionen/nutzungskontext.md) bezieht sich auf den Benutzer, Arbeitsaufgaben und Arbeitsumgebungen.
+Der [Nutzerkontext](../nutzungskontext-definitionen/nutzungskontext.md) bezieht
+sich auf den Benutzer, Arbeitsaufgaben und Arbeitsumgebungen.
+
 Ohne dieses Verständnis kann keine gute UX erreicht werden.
 
 ## 2. Benutzer sind während der Gestaltung und Entwicklung einbezogen
@@ -25,17 +27,17 @@ fortlaufend während der Gestaltung und Entwicklung.
 
 ## 4. Der Prozess sieht Iterationen vor
 
-Wenn keine Iterationen vorgesehen ist, ist es nicht möglich, zuverlässig 
+Wenn keine Iterationen vorgesehen ist, ist es nicht möglich, zuverlässig
 eine gute Usability/UX zu erreichen.
 
-Im Zweifelsfall muss nach einer benutzerzentrierten Evaluierung der 
-vorherige Schritt (Verstehen des Nutzerkontextes) wiederholt werden können. 
+Im Zweifelsfall muss nach einer benutzerzentrierten Evaluierung der
+vorherige Schritt (Verstehen des Nutzerkontextes) wiederholt werden können.
 
 Das muss in der Planung des Prozesses gewährleistet sein.
 
 ## 5. Bei der Gestaltung wird die gesamte User Experience berücksichtigt
 
-Alle Einflussfaktoren müssen ganzheitlich in der Lösungsgestaltung 
+Alle Einflussfaktoren müssen ganzheitlich in der Lösungsgestaltung
 berücksichtigt werden.
 
 Dazu gehören auch organisatorische Auswirkungen, Benutzerdokumentation,

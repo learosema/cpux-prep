@@ -64,6 +64,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Methoden](nutzungskontext-analyse/methoden.md)
 - [Interviews](nutzungskontext-analyse/interviews.md)
 - [Beobachtungen](nutzungskontext-analyse/beobachtungen.md)
+- [Fokusgruppen](nutzungskontext-analyse/fokusgruppen.md)
 
 </div>
 <div class="card flow" markdown="1">
@@ -74,6 +75,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Nutzungskontextbeschreibung](nutzungskontext-darlegungsformen/nutzungskontextbeschreibung.md)
 - [Benutzergruppenprofile](nutzungskontext-darlegungsformen/benutzergruppenprofile.md)
 - [Ist-Szenario](nutzungskontext-darlegungsformen/ist-szenario.md)
+- [Aufgabenmodell](nutzungskontext-darlegungsformen/aufgabenmodell.md)
 
 </div>
 <div class="card flow" markdown="1">

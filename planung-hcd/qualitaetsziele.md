@@ -4,7 +4,7 @@
 > den Benutzer, das sich auf die Usability, die Barrierefreiheit, die User-
 > Experience oder die Vermeidung von Schäden durch die Benutzung bezieht.
 
-Menschzentrierte Qualitätsziele beziehen sich immer auf eine der 
+Menschzentrierte Qualitätsziele beziehen sich immer auf eine der
 vier Qualitätsdimensionen:
 
 1. Usability
@@ -12,8 +12,8 @@ vier Qualitätsdimensionen:
 3. Barrierefreiheit (Accessibility)
 4. Vermeidung von Schäden durch die Benutzung.
 
-Diese sind in der DIN ISO 9421-220 definiert: "Prozesse zur Ermöglichung, 
-Durchführung und Bewertung menschzentrierter Gestaltung für interaktive 
+Diese sind in der DIN ISO 9421-220 definiert: "Prozesse zur Ermöglichung,
+Durchführung und Bewertung menschzentrierter Gestaltung für interaktive
 Systeme in Hersteller- und Betreiberorganisationen".
 
 Es ist nicht wichtig, jedes Qualitätsziel einer dieser Dimensionen zuzuordnen.
@@ -61,7 +61,8 @@ Menschzentrierte Qualitätsziele am Beispiel einer Arztpraxis
 ### Patient
 
 - Schnell einen passenden Termin in naher Zukunft bekommen
-- selbständig, schnell und einfach Behandlungstermine vereinbaren und verschieben können
+- selbständig, schnell und einfach Behandlungstermine vereinbaren und
+  verschieben können
 - Sicherheit haben, wann und wo der nächste Termin stattfinden wird
 - Zuverlässiger Terminbeginn
 
@@ -70,21 +71,25 @@ Menschzentrierte Qualitätsziele am Beispiel einer Arztpraxis
 
 ## Nutzen Menschzentrierter Qualitätsziele
 
-Der Nutzen dieser Qualitätsziele besteht darin, dass hieraus 
+Der Nutzen dieser Qualitätsziele besteht darin, dass hieraus
 Fragen "an den Nutzungekontext" abgeleitet werden können.
 
 Sie können eine Einschätzung abgeben, mit welchen Benutzergruppen in welchem Ausmaß
 Informationen über den Nutzungskontext erhoben werden müssen.
 
-Menschzentrierte Qualitätsziele sind nicht Nutzungsanforderungen, sondern zeigen
-die Richtung auf, in die sich das Projekt aus Benutzersicht und betroffenen Personen 
-der Benutzer bewegen muss.
+Menschzentrierte Qualitätsziele sind nicht Nutzungsanforderungen.
+Sie zeigen die Richtung auf, in die sich das Projekt aus Benutzersicht
+und betroffenen Personen der Benutzer bewegen muss.
 
-Die menschzentrierten Qualitätsziele helfen also bei der Planung der menschzentrierten Gestaltung.
+Die menschzentrierten Qualitätsziele helfen also bei der Planung der
+menschzentrierten Gestaltung.
 
-Der Projektplan enthält die HCD-Qualitätsziele für das Projekt und den Zeitplan und die Ressourcenplanung für die Gestaltungsaktivitäten, die aus den Qualitätszielen abgeleitet werden.
+Der Projektplan enthält die HCD-Qualitätsziele für das Projekt und den Zeitplan
+und die Ressourcenplanung für die Gestaltungsaktivitäten, die aus den
+Qualitätszielen abgeleitet werden.
 
-Das Ausmaß, in dem jede Gestaltungsaktivität explizit durchgeführt und dokumentiert wird, hängt ab von:
+Das Ausmaß, in dem jede Gestaltungsaktivität explizit durchgeführt und
+dokumentiert wird, hängt ab von:
 
 - den Qualitätszielen
 - den Informationen über den Nutzungskontext
@@ -92,16 +97,21 @@ Das Ausmaß, in dem jede Gestaltungsaktivität explizit durchgeführt und dokume
 - bereits vorliegenden Hypothesen über Gestaltungslösungen
 - bereits vorliegendne Gestaltungslösungen vorangegangener Projekte
 
-Abhängig von der Projektsituation kann es sinnvoll sein, auf Basis der HCD-Qualitätsziele zunächst ein Vorprojekt durchzuführen. 
+Abhängig von der Projektsituation kann es sinnvoll sein, auf Basis der
+HCD-Qualitätsziele zunächst ein Vorprojekt durchzuführen.
 
-Dort können empirische Daten aus dem Nutzungskontext erhoben werden. Aus diesen Daten können Nutzungsanforderungen abgeleitet werden.
+Dort können empirische Daten aus dem Nutzungskontext erhoben werden. Aus diesen
+Daten können Nutzungsanforderungen abgeleitet werden.
 
-Diese helfen dann, den tatsächlichen Umfang für die menschzentrierte Gestaltung abzuschätzen. Daraus können dann menschzentrierte Gestaltungsaktivitäten im Projektplan abgeleitet werden.
+Diese helfen dann, den tatsächlichen Umfang für die menschzentrierte Gestaltung
+abzuschätzen. Daraus können dann menschzentrierte Gestaltungsaktivitäten
+im Projektplan abgeleitet werden.
 
-Auch sinnvoll kann sein, für bereits vorliegende Gestaltungslösungen 
+Auch sinnvoll kann sein, für bereits vorliegende Gestaltungslösungen
 Evaluierungen durchzuführen, um bisher unbekannte Verbesserungspotenziale zu erkennen.
 
-Auf Basis des Projektplans werden die folgenden vier menschzentrierten Gestaltungsaktivitäten im Projekt durchgeführt.
+Auf Basis des Projektplans werden die folgenden vier menschzentrierten
+Gestaltungsaktivitäten im Projekt durchgeführt.
 
 1. Nutzungskontext verstehen und festlegen
 2. Nutzungsanforderungen festlegen

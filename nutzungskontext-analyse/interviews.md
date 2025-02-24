@@ -170,18 +170,21 @@ Beispiele für offene neutrale Fragen, die im Interview zu bevorzugen sind:
 
 ## Kontextuelles Interview
 
-> Ein Interview [zum Zweck der Nutzungskontextanalyse], das an dem Ort
-> stattfindet, an dem die Benutzer normalerweise Aufgaben im Zusammenhang
-> mit dem interaktiven System ausführen.”
+> Ein Interview, das an dem Ort stattfindet, an dem die Benutzer normalerweise
+> Aufgaben in Zusammenhang mit dem interaktiven System ausführen
 >
-> Basiswissen Usability und User Experience
+> [CPUX-F Curriculum, S. 24](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf)
 
 Das Interview findet an dem Ort statt, wo die Benutzer normalerweise zugegen
 sind, um Aufgaben mit dem interaktiven System ausführen.
 
 So kann auf die Ressourcen und die Umgebung Bezug genommen werden.
-Kontextuelle Interviews liefern mehr emprisiche Daten als Interviews in einem
-Besprechungsraum.
+Kontextuelle Interviews liefern mehr emprisiche Daten und mehr Details.
 
 Sie sind allerdings schwerer durchzuführen, da zunächst die Erlaubnis des
 Arbeitgebers für die Durchführung des Interviews benötigt wird.
+
+Interviews, die in einem Besprechungsraum, in einer Videokonferenz oder
+am Telefon geführt werden, sind nicht-kontextuelle Interviews.
+
+Ein nicht-kontextuelles Interview ist besser als gar kein Interview.
