@@ -22,26 +22,26 @@ sinnvoll sind.
 
 ## Beispiele
 
-Effektivität: „95 % der Benutzer, die die E-Scooter-App noch nie benutzt
+Maß für Effektivität: „95 % der Benutzer, die die E-Scooter-App noch nie benutzt
 haben, sollen in der Lage sein, die App zu installieren, einen E-Scooter zu
 mieten, den E-Scooter zu finden und loszufahren.“
 
-Effizienz: „80 % der Benutzer, die die E-Scooter-App noch nie benutzt haben,
+Maß für Effizienz: „80 % der Benutzer, die die E-Scooter-App noch nie benutzt haben,
 sollen die App installieren, einen E-Scooter mieten und innerhalb von 5 Minuten
 losfahren können.“
 
-Zufriedenheit: „Direkt nach einer E-Scooter-Miete sollen 80 % der Benutzer
+Maß für Zufriedenheit: „Direkt nach einer E-Scooter-Miete sollen 80 % der Benutzer
 sagen, dass die App einfach zu bedienen ist.“
 
-Barrierefreiheit: „80 % der Nutzer von Spracherkennungssoftware,
+Maß für Barrierefreiheit: „80 % der Nutzer von Spracherkennungssoftware,
 die die E-Scooter-App noch nie benutzt haben, sollen die App installieren,
 einen E-Scooter mieten und innerhalb von 10 Minuten losfahren können.“
 
-Benutzererfahrung: „Nach der Nutzung der E-Scooter-App mindestens zweimal im
+Maß für Benutzererfahrung: „Nach der Nutzung der E-Scooter-App mindestens zweimal im
 Monat, sollen 80 % der Benutzer sagen, dass sie den Service einem Freund
 empfehlen würden.“
 
-Sicherheit: „99 % der E-Scooter-Nutzer sollen wissen, dass sie im Falle eines
+Maß für Sicherheit: „99 % der E-Scooter-Nutzer sollen wissen, dass sie im Falle eines
 Unfalls mit schweren Verletzungen haftbar gemacht werden können.“
 
 ## Praktische Prüfung
