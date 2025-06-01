@@ -99,6 +99,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Nutzungsszenario](gestalten-von-lösungen/nutzungsszenario.md)
 - [Storyboard](gestalten-von-lösungen/storyboard.md)
 - [Prototyp](gestalten-von-lösungen/prototyp.md)
+- [Wireframe](gestalten-von-lösungen/wireframe.md)
+- [Lo-Fidelity-Prototyp](gestalten-von-lösungen/lo-fidelity-prototyp.md)
 
 </div>
 <div class="card flow" markdown="1">
