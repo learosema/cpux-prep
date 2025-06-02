@@ -101,6 +101,14 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Prototyp](gestalten-von-lösungen/prototyp.md)
 - [Wireframe](gestalten-von-lösungen/wireframe.md)
 - [Lo-Fidelity-Prototyp](gestalten-von-lösungen/lo-fidelity-prototyp.md)
+- [Informationsarchitektur](gestalten-von-loesungen/informationsarchitektur.md)
+- [Navigationsstruktur](gestalten-von-lösungen/navigationsstruktur.md)
+- [Card-Sorting](gestalten-von-lösungen/card-sorting.md)
+- [High-Fidelity-Prototyp](gestalten-von-lösungen/high-fidelity-prototyp.md)
+- [Benutzerunterstützung](gestalten-von-lösungen/benutzer-unterstuetzung.md)
+- [User-Interface-Spezifikation](gestalten-von-lösungen/user-interface-spezifikation.md)
+- [Ethisches Design](gestalten-von-lösungen/ethisches-design.md)
+- [Nachhaltiges Design](gestalten-von-lösungen/nachhaltiges-design.md)
 
 </div>
 <div class="card flow" markdown="1">
