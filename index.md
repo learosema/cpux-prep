@@ -113,9 +113,16 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 </div>
 <div class="card flow" markdown="1">
 
-### Prinzipien
+### Prinzipien und Regeln für die Gestaltung
 
-- [Interaktionsprinzipien](prinzipien/interaktionsprinzipien.md)
+- [Lernziele](regeln-fuer-die-gestaltung/lernziele.md)
+- [Zusammenfassung](regeln-fuer-die-gestaltung/zusammenfassung.md)
+- [Interaktionsprinzipien](regeln-fuer-die-gestaltung/interaktionsprinzipien.md)
+- [Konsistenz](regeln-fuer-die-gestaltung/konsistenz.md)
+- [Heuristik](regeln-fuer-die-gestaltung/heuristik.md)
+- [Mentales Modell](regeln-fuer-die-gestaltung/mentales-modell.md)
+- [Styleguide](regeln-fuer-die-gestaltung/styleguide.md)
+- [Design Pattern](regeln-fuer-die-gestaltung/design-pattern.md)
 - [Gestaltgesetze](prinzipien/gestaltgesetze.md) (nicht relevant für CPUX-F)
 
 </div>
