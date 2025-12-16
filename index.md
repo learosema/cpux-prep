@@ -4,9 +4,19 @@ Dies ist Lea’s Versuch, sich auf die Prüfung für CPUX-F vorzubereiten. Sie n
 sich jeden Tag etwas Zeit, um die Inhalte aus dem
 [Lernmaterial](quellenangaben.md) für sich zusammenzufassen.
 
-## Grundlagen
+## Wesentliche Elemente der Menschzentrierten Gestaltung
 
-<div class="grid">
+<div class="card flow" markdown="1">
+
+- Lernziele
+- Wesentliche Elemente der Gestaltung
+- Aktivitäten der menschzentrierten Gestaltung und ihre Wechselbeziehungen
+- Zweck der Ergebnisse jeder Aktivität der menschzentrierten Gestaltung
+
+</div>
+
+## Grundlegende Konzepte
+
 <div class="card flow" markdown="1">
 
 ### Definitionen und Normen
@@ -15,11 +25,26 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Menschzentrierte Qualität](definitionen-und-normen/menschzentrierte-qualitaet.md)
 - [Usability](definitionen-und-normen/usability.md)
 - [User Experience](definitionen-und-normen/user-experience.md)
+- Effektivität
+- Effizienz
+- Zufriedenstellung
 - [Barrierefreiheit](definitionen-und-normen/barrierefreiheit.md)
 - [Vermeidung von Schäden durch die Benutzung](definitionen-und-normen/vermeidung-schaeden.md)
 - [Interaktives System](definitionen-und-normen/interaktives-system.md)
 - [Benutzer-System-Interaktion](definitionen-und-normen/benutzer-system-interaktion.md)
 - [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
+
+</div>
+
+## Planung der menschzentrierten Gestaltung
+
+<div class="grid">
+<div class="card flow" markdown="1">
+
+### Planung einer menschzentrierten Gestaltung
+
+- [Lernziele](planung-hcd/lernziele.md)
+- [Menschzentrierte Qualitätsziele](planung-hcd/qualitaetsziele.md)
 
 </div>
 <div class="card flow" markdown="1">
@@ -33,15 +58,6 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [HCD-Reife](menschzentrierte-gestaltung/hcd-reife.md)
 - [Exkurs: UX Professional](menschzentrierte-gestaltung/exkurs-ux-professional.md)
 - [Exkurs: Integration in den Entwicklungsprozess](menschzentrierte-gestaltung/exkurs-integration-in-den-entwicklungsprozess.md)
-
-</div>
-
-<div class="card flow" markdown="1">
-
-### Planung einer menschzentrierten Gestaltung
-
-- [Lernziele](planung-hcd/lernziele.md)
-- [Menschzentrierte Qualitätsziele](planung-hcd/qualitaetsziele.md)
 
 </div>
 <div class="card flow" markdown="1">
@@ -90,9 +106,14 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Quantitative Nutzungsanforderung](nutzungsanforderungen/quantitative-nutzungsanforderung.md)
 
 </div>
+</div>
+
+## Gestalten von Lösungen die Nutzungsanforderungen erfüllen
+
+<div class="grid">
 <div class="card flow" markdown="1">
 
-### Gestalten von Lösungen die Nutzungsanforderungen erfüllen
+### Gestalten von Lösungen
 
 - [Lernziele](gestalten-von-lösungen/lernziele.md)
 - [Gestaltungsprozess und Ergebnisse](gestalten-von-lösungen/gestaltungsprozess-und-ergebnisse.md)
@@ -125,13 +146,50 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Styleguide](regeln-fuer-die-gestaltung/styleguide.md)
 - [Design Pattern](regeln-fuer-die-gestaltung/design-pattern.md)
 - [Gestaltungsregel](regeln-fuer-die-gestaltung/gestaltungsregel.md)
-- [Gestaltgesetze](regeln-fuer-die-gestaltung/gestaltgesetze.md) (nicht relevant für CPUX-F)
 
 </div>
 </div>
 
-### Weitere Themen (TODO, 404 not found)
+## Evaluieren der Gestaltungslösung gegen Nutzungsanforderungen
 
+<div class="grid">
+<div class="card flow" markdown="1">
+
+### Usability-Evaluierung
+
+- Lernziele
+- Usability-Evaluierung
+- Rolle in der menschzentrierten Gestaltung
+- Unterschied Usability-Test, Usability-Inspektion und Benutzerbefragung in der
+  Usability-Evaluierung
+- Warum sind Interviews und Fokusgruppen für die Usability-Evaluierung
+  ungeeignet?
+
+</div>
+<div class="card flow" markdown="1">
+
+## Usability-Test
+
+- Lernziele
+- Begriff Usability-Test
+- Hauptaktivitäten eines Usability-Tests
+- Unmoderierter Usability-Test
+- Usability-Test-Leitfaden
+- Usability-Testaufgabe
+- Recruiting von Usability-Testteilnehmer*innen
+- Aktivitäten in einer Usability-Testsitzung
+- Usability-Testbericht
+- Usability-Befund
+- Bewertungen für Usability-Befunde
+- Rollen in einem Usability-Test, Moderator, Protokollant, Beobachter und Usability-Testteilnehmer
+
+</div>
+</div>
+
+## Weitere Themen (nicht relevant für CPUX-F)
+
+<div class="card flow">
+- [Gestaltgesetze](regeln-fuer-die-gestaltung/gestaltgesetze.md)
 - [Typographie](prinzipien/typographie.md) (nicht relevant für CPUX-F)
 - [Farbenlehre](prinzipien/farbenlehre.md) (nicht relevant für CPUX-F)
 - [User Research](user-research.html)
@@ -139,3 +197,4 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Usability Testing](usability-testing.html)
 - [UX KPIs](ux-kpis.html)
 - [Green UX](green-ux.html)
+</div>

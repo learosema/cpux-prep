@@ -3,7 +3,8 @@
 Interaktionsprinzipien sind allgemeine Ziele für die Gestaltung von nützlichen
 und gebrauchstauglichen Benutzer-System-Interaktionen.
 
-Quelle: [CPUX-F Curriculum](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf) S.47 ff.
+Quelle:
+[CPUX-F Curriculum](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf) S.47 ff.
 
 Die 7 Interaktionsprinzipien werden in der DIN 9241-110 festgelegt und sind
 relevant für die CPUX-F-Prüfung.

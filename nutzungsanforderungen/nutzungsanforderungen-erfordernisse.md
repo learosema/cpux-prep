@@ -3,7 +3,7 @@
 Nutzungsanforderungen sind präzise Kriterien aus der Sicht der Benutzer,
 die das interaktive System vor seiner Freigabe erfüllen muss.
 
-Nutzungsanforderungen werden aus Erfordernissen abgeleitet. 
+Nutzungsanforderungen werden aus Erfordernissen abgeleitet.
 
 Die Erfordernisse werden durch die Analyse der Nutzungskontextbeschreibung ermittelt.
 Ein Erfordernis muss nicht explizit von einem Benutzer geäußert worden sein.

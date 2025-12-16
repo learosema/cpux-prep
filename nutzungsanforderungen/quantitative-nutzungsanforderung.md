@@ -37,9 +37,9 @@ Maß für Barrierefreiheit: „80 % der Nutzer von Spracherkennungssoftware,
 die die E-Scooter-App noch nie benutzt haben, sollen die App installieren,
 einen E-Scooter mieten und innerhalb von 10 Minuten losfahren können.“
 
-Maß für Benutzererfahrung: „Nach der Nutzung der E-Scooter-App mindestens zweimal im
-Monat, sollen 80 % der Benutzer sagen, dass sie den Service einem Freund
-empfehlen würden.“
+Maß für Benutzererfahrung: „Nach der Nutzung der E-Scooter-App
+mindestens zweimal im Monat, sollen 80 % der Benutzer sagen,
+dass sie den Service einem Freund empfehlen würden.“
 
 Maß für Sicherheit: „99 % der E-Scooter-Nutzer sollen wissen, dass sie im Falle eines
 Unfalls mit schweren Verletzungen haftbar gemacht werden können.“

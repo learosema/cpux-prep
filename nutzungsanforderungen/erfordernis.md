@@ -4,10 +4,12 @@
 > erachtet wird, um ein implizites oder im Rahmen eines bestimmten Nutzungskontextes
 > vorgegebenes Ziel zu erreichen
 
-Erfordernisse haben den Zweck als ein hilfreicher Zwischenschritt bei der Überführung von
-Informationen aus dem Nutzungskontext in umfassende Nutzungsanforderungen zu dienen.
+Erfordernisse sind ein hilfreicher Zwischenschritt bei der Überführung von
+Informationen aus dem Nutzungskontext in umfassende Nutzungsanforderungen.
 
-Ein Erfordernis ist unabhängig von einer vorgeschlagenen Lösung. 
+> "Nutzungsanforderungen werden aus Erfordernissen abgeleitet"
+
+Ein Erfordernis ist unabhängig von einer vorgeschlagenen Lösung.
 Es darf sich nicht auf „das System“ oder „die Website“ beziehen.
 
 Erfordernisse werden mit verschiedenen Ansätzen identifiziert,
