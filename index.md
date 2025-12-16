@@ -188,7 +188,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 
 ## Weitere Themen (nicht relevant für CPUX-F)
 
-<div class="card flow">
+<div class="card flow" markdown="1">
 - [Gestaltgesetze](regeln-fuer-die-gestaltung/gestaltgesetze.md)
 - [Typographie](prinzipien/typographie.md) (nicht relevant für CPUX-F)
 - [Farbenlehre](prinzipien/farbenlehre.md) (nicht relevant für CPUX-F)
