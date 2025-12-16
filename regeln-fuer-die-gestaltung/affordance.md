@@ -4,7 +4,7 @@
 > werden kann
 
 Die Gestaltung von Objekten mit einer klaren Affordance kann zu einer
-angemessenen Usability beitragen, da dies die Selbstbeschreibungsfähigkeit,
+angemessenen Usability beitragen, da dies die <strong>Selbstbeschreibungsfähigkeit</strong>,
 die Konformität mit den Erwartungen der Benutzer und die Erlernbarkeit unterstützt.
 
 Beispiele für Affordance:

@@ -118,6 +118,7 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Lernziele](regeln-fuer-die-gestaltung/lernziele.md)
 - [Zusammenfassung](regeln-fuer-die-gestaltung/zusammenfassung.md)
 - [Interaktionsprinzipien](regeln-fuer-die-gestaltung/interaktionsprinzipien.md)
+- [Affordance](regeln-fuer-die-gestaltung/affordance.md)
 - [Konsistenz](regeln-fuer-die-gestaltung/konsistenz.md)
 - [Heuristik](regeln-fuer-die-gestaltung/heuristik.md)
 - [Mentales Modell](regeln-fuer-die-gestaltung/mentales-modell.md)
