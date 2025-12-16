@@ -17,3 +17,9 @@ für Ausnahmen.
 - Das Firmenlogo muss oben links auf jeder Seite gleich platziert sein
   und zur Startseite führen.
 - Die Buttonhöhe beträgt genau 23 Pixel.
+
+## Unterschied Interaktionsprinzipien vs Gestaltungsregeln
+
+Gestaltungsregeln sind konkrete Instruktionen/Designempfehlungen und Implementierungen.
+
+Interaktionsprinzipien sind allgemeine Ziele für die Gestaltung.

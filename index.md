@@ -124,7 +124,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Mentales Modell](regeln-fuer-die-gestaltung/mentales-modell.md)
 - [Styleguide](regeln-fuer-die-gestaltung/styleguide.md)
 - [Design Pattern](regeln-fuer-die-gestaltung/design-pattern.md)
-- [Gestaltgesetze](prinzipien/gestaltgesetze.md) (nicht relevant für CPUX-F)
+- [Gestaltungsregel](regeln-fuer-die-gestaltung/gestaltungsregel.md)
+- [Gestaltgesetze](regeln-fuer-die-gestaltung/gestaltgesetze.md) (nicht relevant für CPUX-F)
 
 </div>
 </div>
