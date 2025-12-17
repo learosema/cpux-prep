@@ -24,15 +24,17 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [ISO 9241](definitionen-und-normen/iso-9241.md)
 - [Menschzentrierte Qualität](definitionen-und-normen/menschzentrierte-qualitaet.md)
 - [Usability](definitionen-und-normen/usability.md)
+- [Ziele](definitionen-und-normen/ziele.md)
 - [User Experience](definitionen-und-normen/user-experience.md)
-- Effektivität
-- Effizienz
-- Zufriedenstellung
+- [Effektivität](definitionen-und-normen/effektivität.md)
+- [Effizienz](definitionen-und-normen/effizienz.md)
+- [Zufriedenstellung](definitionen-und-normen/zufriedenstellung.md)
 - [Barrierefreiheit](definitionen-und-normen/barrierefreiheit.md)
 - [Vermeidung von Schäden durch die Benutzung](definitionen-und-normen/vermeidung-schaeden.md)
 - [Interaktives System](definitionen-und-normen/interaktives-system.md)
 - [Benutzer-System-Interaktion](definitionen-und-normen/benutzer-system-interaktion.md)
 - [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
+- [User Interface Element](definitionen-und-normen/user-interface-element.md)
 
 </div>
 

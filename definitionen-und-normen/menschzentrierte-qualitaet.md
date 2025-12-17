@@ -1,8 +1,16 @@
 # Menschzentrierte Qualität
 
-> Das Ausmaß, in dem ein interaktives System Anforderungen erfüllt,
-> bezüglich der 4 Dimensionen: Gebrauchstauglichkeit, Benutzererlebnis,
-> Barrierefreiheit und Vermeidung von Schäden durch die Benutzung
+> Das Ausmaß, in dem Anforderungen an die Usability,
+> User Experience, Barrierefreiheit und die Vermeidung
+> von Schäden bei der Benutzung erfüllt werden.
+
+Menschzentrierte Qualität ist das Hauptziel der menschzentrierten Gestaltung.
+
+Beispiele: finden Sie unter [Menschzentrierte Qualitätsziele](../planung-hcd/qualitaetsziele.md).
+
+Zusätzlich zur menschzentrierten Qualität gibt es
+noch andere Dimensionen der Qualität, einschließlich der
+technologiezentrierten Qualität und der unternehmenszentrierten Qualität.
 
 - [Gebrauchstauglichkeit (Usability)](usability.md)
 - [Benutzererlebnis (User Experience)](user-experience.md)
