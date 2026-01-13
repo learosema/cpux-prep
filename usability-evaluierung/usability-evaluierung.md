@@ -11,6 +11,10 @@ Usability kann evaluiert werden durch:
 - Benutzerbefragungen
 - Usability-Inspektionen
 
+Bei Usability-Tests und Benutzerbefragungen sind Benutzer während der
+Usability-Evaluierung involviert, während eine Usability-Inspektion ausschließlich
+von User Experience Professionals oder Fachexperten durchgeführt wird.
+
 Usability-Evaluierungen können in allen Phasen der menschzentrierten Gestaltung
 stattfinden – von der frühen Analyse über die Entwicklung bis nach der
 Auslieferung.
