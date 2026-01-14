@@ -2,6 +2,11 @@
 
 Dieses Thema ist nicht relevant für die CPUX-F-Zertifizierung.
 
+Das geht ausführlicher und schöner zu beschreiben, beispielsweise auf
+[Farbenlehre.com](https://farbenlehre.com/). 
+
+Es soll hier nur mal ein paar Basics vermitteln.
+
 ## Farbe ist nicht nur dekorativ
 
 ### Farben steigern die Benutzerfreundlichkeit
@@ -33,13 +38,14 @@ Inkonsistente Farben schaden der Markenbekanntheit.
 
 ## Farbtheorie im UX-Design
 
-- Isaac Newton hat's erfunden
-- Der [Farbkreis]() ist ein kreisförmiges Diagramm
-- Es werden alle Farben und ihre Verbindung angezeigt
-- Es beinhaltet
-  - Primärfarben
-  - Sekundärfarben
-  - Tertiärfarben
+### 60-30-10-Regel
+
+Die 60-30-10-Regel ist ein bewährtes Prinzip zur Farbverteilung im UX-Design, um ein
+harmonisches und ausgewogenes Erscheinungsbild zu schaffen.
+
+- 60 % für eine Hauptfarbe
+- 30 % für eine Sekundärfarbe
+- 10 % für eine Akzentfarbe
 
 ## Barrierefreiheit
 
