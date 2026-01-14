@@ -1,5 +1,7 @@
 # Gestaltgesetze
 
+Dieses Thema ist nicht relevant für die CPUX Foundation Level Zertifizierung.
+
 Siehe: <https://www.designsensor.ch/gestaltgesetze/>
 
 ## Ähnlichkeit

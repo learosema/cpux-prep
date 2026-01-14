@@ -1,7 +1,7 @@
 # Usability-Test
 
-> Eine Usability-Evaluierung, bei der repräsentative Benutzer bestimmte 
-> Aufgaben mit dem interaktiven System ausführen, 
+> Eine Usability-Evaluierung, bei der repräsentative Benutzer bestimmte
+> Aufgaben mit dem interaktiven System ausführen,
 > um Usability-Probleme zu erfassen oder zu analysieren,
 > oder um die Messung von Effektivität, Effizienz und Zufriedenstellung
 > zu ermöglichen

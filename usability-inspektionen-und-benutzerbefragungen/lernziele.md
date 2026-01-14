@@ -2,6 +2,7 @@
 
 ## Lernziele
 
-- Verstehen, was eine Usability-Inspektion ist
-- Verstehen, wie und warum eine Benutzerbefragung für eine
-  Usability-Evaluierung verwendet wird
+- Verstehen, was eine [Usability-Inspektion](usability-inspektion.md) ist
+- Verstehen, [wie eine Benutzerbefragung](benutzerbefragung.md) und
+  [warum](benutzerbefragung-warum.md) sie für eine Usability-Evaluierung
+  verwendet wird

@@ -1,6 +1,6 @@
 # Usability-Evaluierung
 
-EUsability-Evaluierung ist ein Sammelbegriff für Verfahren, mit denen
+Usability-Evaluierung ist ein Sammelbegriff für Verfahren, mit denen
 Informationen über die Usability eines interaktiven Systems erhoben werden.
 
 Ziel ist es, die Usability zu bewerten oder das System zu verbessern.
