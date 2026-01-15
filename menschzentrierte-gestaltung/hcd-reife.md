@@ -24,8 +24,8 @@ Es gibt seit Ende 2022 zusätzlich das UXQB
 
 Für die Feststellung der Ist-Situation im Unternehmen gibt es HCD-Reifegrade.
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ### Unvollständig
 
@@ -36,8 +36,8 @@ es darum geht Ressourcen bereitzustellen oder unbequeme Entscheidungen zugunsten
 der Usability zu treffen, geschieht nichts. Usability ist gut, aber bitte ohne
 Aufwand und ohne Verpflichtung, sie auch zu liefern.
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Ausgeführt
 
@@ -46,8 +46,8 @@ auch nicht korrekt) ausgeführt.
 
 *Usability wird von enthusiastischen Einzelpersonen mit Ad-hoc-Prozessen erreicht.*
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Gemanaged
 
@@ -57,8 +57,8 @@ kontrolliert und gepflegt.
 
 *Der Prozess wird geplant, überwacht und angepasst.*
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Etabliert
 
@@ -66,8 +66,8 @@ Alle Projekte erfüllen die Anforderungen des HCD-Qualitätssystems.
 Es gibt Standards für die Durchführung von HCD-Aktivitäten, Styleguides und
 Regeln für die Überwachung und der Einhaltung  des Qualitätssystems.
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Vorhersagbar
 
@@ -80,8 +80,8 @@ Korrekturmaßnahmen ergriffen.
 *Anmerkung:* Es sind Ziele für Prozzessinovation definiert worden, die
 die relevanten Geschäftsziele unterstützen.
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Innovativ
 
@@ -91,4 +91,4 @@ Unternehmensstrategie selbst nicht nur auf finanziellen und
 personellen Zielen, sondern auch auf User Research und der aktiven
 Einbindung der User.
 
-<div></div>
+<section></section>

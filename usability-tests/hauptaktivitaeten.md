@@ -8,8 +8,8 @@ sind kein Bestandteil eines Usability-Tests.
 
 ## Hauptaktivitäten
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ## Vorbereiten des Usability-Tests
 
@@ -17,8 +17,8 @@ sind kein Bestandteil eines Usability-Tests.
 - einschl. Usability-Testaufgaben
 - Rekrutierung der Usability-Testteilnehmer
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ## Durchführen der Usability-Testsitzungen
 
@@ -27,16 +27,16 @@ sind kein Bestandteil eines Usability-Tests.
 - Usability-Testaufgaben lösen
 - Post- Test-Interview
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ## Berichten der Ergebnisse
 
 - Erstellen des Usability-Testberichts
 - Kommunizieren der UsabilityBefunde
 
-</div>
-</div>
+</section>
+</section>
 
 ## Bestandteile
 

@@ -21,8 +21,8 @@ planbar zu sein.
 Der Stärker agiler Ansätze entfaltet sich, wenn sich mit hoher Dynamik
 Projektparameter wie Ziele, Umfeldung und Erwartungen an die Lösung verändern.
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ## Projekttyp
 
@@ -34,8 +34,8 @@ Eher agil präferieren:
 
 - (Software-)Entwicklungsprojekt
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ## Ziele
 
@@ -49,9 +49,9 @@ Eher agil präferieren:
 - Vision
 - häufige Änderungen in Zielen und Anforderungen sind zu erwarten
 
-</div>
+</section>
 
-<div class="card flow" markdown="1">
+<section class="card flow" markdown="1">
 
 ## Auftraggeber
 
@@ -67,8 +67,8 @@ Eher agil präferieren
 - Auftraggeber kann im Projektverlauf wechseln
 - Änderungen von Prioritäten und Zielvorstellungen
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ## Team
 
@@ -80,8 +80,8 @@ Eher agil präferieren:
 
 - eher kleine, selbstorganisierte Teams
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ## Externe Dienstleister
 
@@ -95,9 +95,9 @@ Eher agil präferieren:
 - geringe Abhängigkeiten untereinander
 - Vertragskontext lässt agiles Vorgehen zu
 
-</div>
+</section>
 
-<div class="card flow" markdown="1">
+<section class="card flow" markdown="1">
 
 ## Stakeholder
 
@@ -117,8 +117,8 @@ Eher agil präferieren:
 - Aktivitäten der Stakeholder weitgehend
   unbeeinflusst vom Projekt
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ## Dokumentation
 
@@ -132,8 +132,8 @@ Eher agil präferieren:
 - Es existieren keine Zwänge (Normen, Gesetze)
 - für zukünftige Zwecke weniger wichtig
 
-</div>
-</div>
+</section>
+</section>
 
 Unabhängig davon, ob ein Projekt eher klassisch oder eher agil durchgeführt
 wird, gibt es naturgemäß Bedarf für Änderungen, sobald Projektergebnisse

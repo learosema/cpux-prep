@@ -6,18 +6,18 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 
 ## Wesentliche Elemente der Menschzentrierten Gestaltung
 
-<div class="card flow" markdown="1">
+<section class="card flow" markdown="1">
 
 - Lernziele
 - Wesentliche Elemente der Gestaltung
 - Aktivitäten der menschzentrierten Gestaltung und ihre Wechselbeziehungen
 - Zweck der Ergebnisse jeder Aktivität der menschzentrierten Gestaltung
 
-</div>
+</section>
 
 ## Grundlegende Konzepte
 
-<div class="card flow" markdown="1">
+<section class="card flow" markdown="1">
 
 ### Definitionen und Normen
 
@@ -36,20 +36,20 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Benutzungsschnittstelle (User Interface)](definitionen-und-normen/benutzungsschnittstelle.md)
 - [User Interface Element](definitionen-und-normen/user-interface-element.md)
 
-</div>
+</section>
 
 ## Planung der menschzentrierten Gestaltung
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ### Planung einer menschzentrierten Gestaltung
 
 - [Lernziele](planung-hcd/lernziele.md)
 - [Menschzentrierte Qualitätsziele](planung-hcd/qualitaetsziele.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Menschzentrierte Gestaltung
 
@@ -61,8 +61,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Exkurs: UX Professional](menschzentrierte-gestaltung/exkurs-ux-professional.md)
 - [Exkurs: Integration in den Entwicklungsprozess](menschzentrierte-gestaltung/exkurs-integration-in-den-entwicklungsprozess.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Nutzungskontext: Definitionen
 
@@ -73,8 +73,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Ressourcen](nutzungskontext-definitionen/ressourcen.md)
 - [Umgebungen](nutzungskontext-definitionen/umgebungen.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Nutzungskontext: Analyse
 
@@ -84,8 +84,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Beobachtungen](nutzungskontext-analyse/beobachtungen.md)
 - [Fokusgruppen](nutzungskontext-analyse/fokusgruppen.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Nutzungskontext: Darlegungsformen
 
@@ -95,8 +95,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Ist-Szenario](nutzungskontext-darlegungsformen/ist-szenario.md)
 - [Aufgabenmodell](nutzungskontext-darlegungsformen/aufgabenmodell.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Nutzungsanforderungen
 
@@ -107,13 +107,13 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Qualitative Nutzungsanforderung](nutzungsanforderungen/qualitative-nutzungsanforderung.md)
 - [Quantitative Nutzungsanforderung](nutzungsanforderungen/quantitative-nutzungsanforderung.md)
 
-</div>
-</div>
+</section>
+</section>
 
 ## Gestalten von Lösungen die Nutzungsanforderungen erfüllen
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ### Gestalten von Lösungen
 
@@ -133,8 +133,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Ethisches Design](gestalten-von-lösungen/ethisches-design.md)
 - [Nachhaltiges Design](gestalten-von-lösungen/nachhaltiges-design.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Prinzipien und Regeln für die Gestaltung
 
@@ -149,13 +149,13 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Design Pattern](regeln-fuer-die-gestaltung/design-pattern.md)
 - [Gestaltungsregel](regeln-fuer-die-gestaltung/gestaltungsregel.md)
 
-</div>
-</div>
+</section>
+</section>
 
 ## Evaluieren der Gestaltungslösung gegen Nutzungsanforderungen
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ### Usability-Evaluierung
 
@@ -165,8 +165,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Unterschied Usability-Test, Usability-Inspektion und Benutzerbefragung in der Usability-Evaluierung](usability-evaluierung/unterschied-zwischen.md)
 - [Warum sind Interviews und Fokusgruppen für die Usability-Evaluierung ungeeignet?](usability-evaluierung/unterschied-zwischen.md)
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Usability-Test
 
@@ -187,12 +187,12 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
   - [Beobachter](usability-tests/beobachter.md)
   - [Usability-Testteilnehmer](usability-tests/usability-testteilnehmer.md)
 
-</div>
-</div>
+</section>
+</section>
 
 ## HCD-Reife: Akzeptanz gegenüber menschzentrierter Gestaltung
 
-<div class="card flow" markdown="1">
+<section class="card flow" markdown="1">
 
 ### HCD-Reife
 
@@ -201,11 +201,11 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [HCD-Reifegrade](hcd-reife/hcd-reifegrade.md)
 - [HCD-Reife steigern](hcd-reife/hcd-reife-steigern.md)
 
-</div>
+</section>
 
 ## Weitere Themen (nicht relevant für CPUX-F)
 
-<div class="card flow" markdown="1">
+<section class="card flow" markdown="1">
 - [Gestaltgesetze](regeln-fuer-die-gestaltung/gestaltgesetze.md)
 - [Typographie](prinzipien/typographie.md) (nicht relevant für CPUX-F)
 - [Farbenlehre](prinzipien/farbenlehre.md) (nicht relevant für CPUX-F)
@@ -214,5 +214,5 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Usability Testing](usability-testing.html)
 - [UX KPIs](ux-kpis.html)
 - [Green UX](green-ux.html)
-</div>
+</section>
 

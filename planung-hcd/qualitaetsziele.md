@@ -33,8 +33,8 @@ Projektziele am Beispiel einer Arztpraxis:
 
 Menschzentrierte Qualitätsziele am Beispiel einer Arztpraxis
 
-<div class="grid">
-<div class="card flow" markdown="1">
+<section class="grid">
+<section class="card flow" markdown="1">
 
 ### Medizinische Fachangestellte
 
@@ -44,8 +44,8 @@ Menschzentrierte Qualitätsziele am Beispiel einer Arztpraxis
 - Verfügbarkeit von Personen, Ressourcen und Zeiten konsequent
   berücksichtigen
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Arzt
 
@@ -55,8 +55,8 @@ Menschzentrierte Qualitätsziele am Beispiel einer Arztpraxis
 - Administrativen Aufwand minimal halten
 - Kassenpatienten und Privatpatienten auseinanderhalten können
 
-</div>
-<div class="card flow" markdown="1">
+</section>
+<section class="card flow" markdown="1">
 
 ### Patient
 
@@ -66,8 +66,8 @@ Menschzentrierte Qualitätsziele am Beispiel einer Arztpraxis
 - Sicherheit haben, wann und wo der nächste Termin stattfinden wird
 - Zuverlässiger Terminbeginn
 
-</div>
-</div>
+</section>
+</section>
 
 ## Nutzen Menschzentrierter Qualitätsziele
 
