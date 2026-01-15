@@ -2,10 +2,10 @@
 
 Dieses Thema ist nicht relevant für die CPUX-F-Zertifizierung.
 
-Das geht ausführlicher und schöner zu beschreiben, beispielsweise auf
-[Farbenlehre.com](https://farbenlehre.com/). 
+Das geht ausführlicher und schöner, beispielsweise auf
+[Farbenlehre.com](https://farbenlehre.com/).
 
-Es soll hier nur mal ein paar Basics vermitteln.
+Hier nur die Basics.
 
 ## Farbe ist nicht nur dekorativ
 
