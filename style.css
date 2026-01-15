@@ -126,6 +126,7 @@ blockquote > * + * {
 
 section {
   background: var(--section-bg);
+  box-shadow: 0 0 0.5rem light-dark(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
   padding: 1rem;
   border-radius: 0.5rem;
 }
