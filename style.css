@@ -1,12 +1,13 @@
 :root {
   --bg: light-dark(#f4f0fa, #1b1123);
   --fg: light-dark(#111, #eee);
+  --headline-fg: light-dark(#360015, #ffd8fe);
   --header-bg: light-dark(#fd9, #42b);
   --header-fg: light-dark(#111, #ffe);
   --border-color: light-dark(#ccc, #555);
   --primary-color: light-dark(#ff002f, #580081);
-  --section-bg: light-dark(#f8f1e4, #2b2034);
-  --nested-section-bg: light-dark(#efd9b1, #2d1f36);
+  --section-bg: light-dark(#f8f1e4, #18141c);
+  --nested-section-bg: light-dark(#efd9b1, #23192a);
 }
 
 * {
@@ -43,7 +44,7 @@ h1, h2, h3 {
   --flow-space: 2em;
   font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
   font-weight: normal;
-  color: var(--primary-color);
+  color: var(--headline-fg);
   line-height: 1.2;
   font-weight: 900;
 }
