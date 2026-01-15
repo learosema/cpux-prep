@@ -6,8 +6,8 @@
   --header-fg: light-dark(#111, #ffe);
   --border-color: light-dark(#ccc, #555);
   --primary-color: light-dark(#ff002f, #580081);
-  --section-bg: light-dark(#f8f1e4, #18141c);
-  --nested-section-bg: light-dark(#efd9b1, #23192a);
+  --section-bg: light-dark(#ffecc9, #241530);
+  --nested-section-bg: light-dark(#ffdb98, #2b1a39);
 }
 
 * {
