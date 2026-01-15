@@ -1,7 +1,7 @@
 :root {
   --bg: light-dark(#f4f0fa, #1b1123);
   --fg: light-dark(#111, #eee);
-  --headline-fg: light-dark(#132e38, #cfc);
+  --headline-fg: light-dark(#132e38, #efe);
   --header-bg: light-dark(#8bbeff, #281e4f);
   --header-fg: light-dark(#111, #ffe);
   --border-color: light-dark(#ccc, #574e55);
