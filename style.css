@@ -1,13 +1,13 @@
 :root {
   --bg: light-dark(#f4f0fa, #1b1123);
-  --fg: light-dark(#111, #eee);
+  --fg: light-dark(#111, #fff);
   --headline-fg: light-dark(#132e38, #efe);
-  --header-bg: light-dark(#8bbeff, #281e4f);
+  --header-bg: light-dark(#ffc4df, #281e4f);
   --header-fg: light-dark(#111, #ffe);
   --border-color: light-dark(#dce, #425);
   --primary-color: light-dark(#3700ff, #580081);
-  --section-bg: light-dark(#e1d7fc, #241530);
-  --nested-section-bg: light-dark(#bfb1f9, #311d41);
+  --section-bg: light-dark(#def, #241530);
+  --nested-section-bg: light-dark(#cdf, #311d41);
 }
 
 * {
