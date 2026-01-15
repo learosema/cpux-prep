@@ -155,7 +155,7 @@ table {
 blockquote {
   padding: 1rem;
   background: var(--blockquote-bg);
-  border-left: 0.5rem solid var(var(--primary-color));
+  border-left: 0.5rem solid var(--primary-color);
   border-radius: 0.5rem;
 }
 
