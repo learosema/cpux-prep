@@ -123,3 +123,13 @@ blockquote {
 blockquote > * + * {
   margin-block-start: 1em;
 }
+
+section {
+  background: var(--section-bg);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+section section {
+  background: var(--nested-section-bg);
+}
