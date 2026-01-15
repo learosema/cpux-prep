@@ -1,13 +1,13 @@
 :root {
   --bg: light-dark(#f4f0fa, #1b1123);
   --fg: light-dark(#111, #eee);
-  --headline-fg: light-dark(#360015, #ffd8fe);
-  --header-bg: light-dark(#fd9, #281e4f);
+  --headline-fg: light-dark(#132e38, #cfc);
+  --header-bg: light-dark(#8bbeff, #281e4f);
   --header-fg: light-dark(#111, #ffe);
-  --border-color: light-dark(#ccc, #555);
-  --primary-color: light-dark(#ff002f, #580081);
-  --section-bg: light-dark(#ffecc9, #241530);
-  --nested-section-bg: light-dark(#ffdb98, #2b1a39);
+  --border-color: light-dark(#ccc, #574e55);
+  --primary-color: light-dark(#3700ff, #580081);
+  --section-bg: light-dark(#e1d7fc, #241530);
+  --nested-section-bg: light-dark(#bfb1f9, #2b1a39);
 }
 
 * {
@@ -116,7 +116,7 @@ table {
 
 blockquote {
   padding: 1rem;
-  background: var(--section-bg)
+  background: var(--section-bg);
   border-left: 0.5rem solid var(var(--nested-section-bg));
   border-radius: 0.5rem;
 }
