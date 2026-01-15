@@ -33,7 +33,8 @@
   --bubble-pink-0: #250412;
 
   --ash: #171718;
-  --mousegray: #232324;
+  --gray: #333;
+  --silver: #ddd;
   --whitesmoke: #f7f7fa;
 
   --primary-color: light-dark(var(--blue-4), var(--indigo-4));
@@ -44,10 +45,9 @@
   --header-bg: light-dark(var(--blue-6), var(--blue-2));
   --header-fg: light-dark(var(--ash), var(--whitesmoke));
   --border-color: light-dark(var(--blue-7), var(--blue-4));
-  --primary-color: light-dark(var(--blue-5), var(--blue-5));
   --section-bg: light-dark(var(--blue-9), var(--blue-1));
   --nested-section-bg: light-dark(var(--blue-8), var(--blue-2));
-  --blockquote-bg: light-dark(var(--blue-7), var(--blue-2));
+  --blockquote-bg: light-dark(var(--silver), var(--gray));
   --blockquote-decoration: light-dark(var(--bubble-pink-4), var(--bubble-pink-6));
   --link-fg: light-dark(var(--blue-2), var(--blue-8));
   --vlink-fg: light-dark(var(--indigo-2), var(--indigo-8));
@@ -173,7 +173,7 @@ table {
 blockquote {
   padding: 1rem;
   background: var(--blockquote-bg);
-  border-left: 0.5rem solid var(--primary-color);
+  border-left: 0.5rem solid var(--blockquote-decoration);
   border-radius: 0.5rem;
 }
 
@@ -183,7 +183,7 @@ blockquote > * + * {
 
 section {
   background: var(--section-bg);
-  box-shadow: 0 0 0.5rem light-dark(rgba(0,0,0,0.1), rgba(0,0,0,0.5));
+  box-shadow: 2px 2px 4px #0007;
   padding: 1rem;
   border-radius: 0.5rem;
 }
