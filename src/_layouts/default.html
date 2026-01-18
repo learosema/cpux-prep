@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="dark light">
-    <title>{{ page.title }} – Lea's CPUX Cheatsheeet (WIP)</title>
+    <title>{{ title }} – Lea's CPUX Cheatsheet</title>
     <link rel="stylesheet" href="https://learosema.github.io/cpux-prep/style.css">
   </head>
   <body>
@@ -27,7 +27,7 @@
 
     <main>
       <article class="wrapper flow">
-      {{ content }}
+      {{ content | safe }}
       </article>
     </main>
     <footer>

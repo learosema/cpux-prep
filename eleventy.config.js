@@ -1,0 +1,58 @@
+import { parseHTML } from 'linkedom';
+import { createIndex } from 'pagefind'
+
+export default function (eleventyConfig) {
+
+  eleventyConfig.addGlobalData('layout', () => 'default.html')
+  // Set global permalinks to resource.html style
+	eleventyConfig.addGlobalData("permalink", () => {
+		return (data) =>
+			`${data.page.filePathStem}.${data.page.outputFileExtension}`;
+	});
+
+  eleventyConfig.addGlobalData("eleventyComputed.title", () => {
+    return (data) => {
+      if (data.page.inputPath?.endsWith('.md')) {
+        const titleRegex = /^\#\s(.*?)\r?\n/;
+        const match = data.page.rawInput?.match(titleRegex);
+        return match ? match[1] : '';
+      }
+      return '';
+    }
+  })
+
+  eleventyConfig.addTransform('remap-md-links', function (content) {
+    if (((this.page.outputPath || "").endsWith(".html")) === false) {
+      return content;
+    }
+    const { document } = parseHTML(content);
+    const isRelativeLink = (href) => /^https?:\/\//.test(href) === false;
+    const anchors = document.querySelectorAll('a[href]')
+    for (const anchor of anchors) {
+      const href = anchor.getAttribute('href') || ''
+      if (isRelativeLink(href) && href.endsWith('.md')) {
+        anchor.setAttribute('href', href.replace(/\.md$/, '.html'))
+      }
+    }
+    return document.toString();
+  })
+
+  eleventyConfig.on('eleventy.after', async () => {
+    console.info('creating search index files')
+    const { index } = await createIndex();
+    index.addDirectory({ path: 'dist' });
+    await index.writeFiles({outputPath: 'dist/_index'});
+    console.info('done.')
+  })
+
+  return {
+    markdownTemplateEngine: 'njk',
+    htmlTemplateEngine: 'njk',
+    dir: {
+      input: 'src',
+      includes: "_includes",
+      layouts: "_layouts",
+      output: 'dist',
+    }
+  }
+}
