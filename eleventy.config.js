@@ -2,8 +2,10 @@ import { parseHTML } from 'linkedom';
 import { createIndex } from 'pagefind'
 
 export default function (eleventyConfig) {
-
-  eleventyConfig.addGlobalData('layout', () => 'default.html')
+  eleventyConfig.addPassthroughCopy('src/css')
+  eleventyConfig.addPassthroughCopy('src/js')
+  
+  eleventyConfig.addGlobalData('layout', () => 'default.njk')
   // Set global permalinks to resource.html style
 	eleventyConfig.addGlobalData("permalink", () => {
 		return (data) =>
@@ -41,7 +43,7 @@ export default function (eleventyConfig) {
     console.info('creating search index files')
     const { index } = await createIndex();
     index.addDirectory({ path: 'dist' });
-    await index.writeFiles({outputPath: 'dist/_index'});
+    await index.writeFiles({outputPath: 'dist/pagefind'});
     console.info('done.')
   })
 
