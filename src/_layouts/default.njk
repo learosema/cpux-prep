@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="de_DE">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark light">
+    <title>{{ title }} – Lea's CPUX Cheatsheet</title>
+    <style>{% include "critical.css" %}</style>
+    <link rel="stylesheet" href="{{ meta.root }}/css/style.css">
+  </head>
+  <body>
+    <header>
+      <a class="logo" href="{{ meta.root }}/">
+        <svg role="img" aria-label="Logo, zur Startseite" viewBox="0 0 110 70">
+          <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">  
+            <path d="M2 57 l4 4 h40 l-4-4" fill="#faa" />
+            <path d="M42 7 l4 4 v 50l-4 -4z" fill="#639"/>
+            <path d="M12 7 l4 4 v36h-4z" fill="#639"/>
+            <path d="M2 7 v50 h40 v-50 h-10v40h-20v-40z" fill="#f39"/>
+            <path d="M60 7 h-10 v10h10v10h10v10 h-10v10h-10v10 h20v-10h10v10h20v-10h-10v-10h-10v-10h10v-10h10v-10h-20v10h-10v-10z" fill="#3f9c"/>            
+            <path d="M50 17 l 4 4 h6v-4z m10 10 l 4 4 h6v-4h-10m-10 30 l 4 4 h20 l-4 -4 h-20 m20 -10 l 4 4 h6v-4h-10m10 10l 4 4 h20 l-4 -4 h-20m0 -30 l 4 4 h 10 l-4 -4h-10m10 -10l 4 4 h 10 l-4 -4h-10" fill="#cfc"/>
+            <path d="M70 7 l4 4v6h-4v-10m30 0 l4 4v10l-4-4v-10m-10 10 l4 4v10l-4-4v-10m-10 10 l4 4v6h-4v-10m10 10 l4 4v6h-4v-10m10 10 l4 4v10l-4 -4 v-10m-30 0 l4 4v10l-4 -4 v-10" fill="#152"/>
+          </g>
+        </svg>
+      </a>
+      <span class="caption">Lea's CPUX Vorbereitung</span>
+      <button class="btn" type="button" id="searchButton">Search (<kbd>cmd</kbd> + <kbd>K</kbd>)</button>
+    </header>
+
+    <main>
+      <article class="wrapper flow">
+      {{ content | safe }}
+      </article>
+      <dialog class="dialog dialog--search" id="searchDialog">
+        <div class="dialog__body">
+        <h2 id="searchDialogTitle">Schnellsuche</h2>
+
+        <form method="post" id="searchForm">
+          <input id="searchInput" name="query" type="search" aria-labelledby="searchDialogTitle"></form>
+          <div class="dialog__results" id="searchResults" class="search-results" aria-live="polite"></div>
+
+          
+          
+          
+          <form method="dialog">
+            <button class="dialog__close">
+              <svg viewBox="0 0 16 16"><path d="M1 1L15 15 M15 1 L1 15" stroke="currentColor"></path></svg>
+              <span class="sr-only">schließen</span>
+            </button>
+          </form>
+
+
+          </div>
+        </dialog>
+    </main>
+    <footer>
+      made with love by <a rel="me" href="https://lea.lgbt/@lea" target="_blank">Lea</a>
+    </footer>
+    <script type="module">
+      import { tinykeys } from '{{ meta.root}}/js/tinykeys.module.js';
+      import mermaid from 'https://esm.sh/mermaid';
+      mermaid.initialize({startOnLoad:true,theme:'neutral'})
+      await mermaid.run({querySelector:'code.language-mermaid'})
+      const pagefind = await import('{{ meta.root }}/pagefind/pagefind.js')
+      
+
+      const $ = document.querySelector.bind(document)
+
+      async function openSearch() {
+        if (!window._pagefindLoaded) {
+          pagefind.init()
+          window._pagefindLoaded = true
+          setupPagefindSearch()
+        }
+        $('#searchDialog').showModal()
+        setTimeout(() => $('#searchInput').focus(), 0)
+      }
+
+      function setupPagefindSearch() {
+        const form = $('#searchForm')
+        const input = $('#searchInput')
+        const resultsEl = $('#searchResults')
+        let timer = null
+
+        function getResultLinks() {
+          return Array.from(resultsEl.querySelectorAll('a'))
+        }
+
+        function focusResultIndex(idx) {
+          const links = getResultLinks()
+          if (links.length === 0) return
+          if (idx < 0) {
+            $('#searchInput').focus();
+            return;
+          }
+          if (idx >= links.length) idx = links.length - 1
+          links[idx].focus()
+        }
+
+        function renderResults(results) {
+          if (!results || results.length === 0) {
+            resultsEl.innerHTML = '<p class="no-results">Keine Treffer.</p>'
+            return
+          }
+          resultsEl.innerHTML = '<ul>' + results.map(h => {
+            const url = h.url 
+            const title = h.title
+            const excerpt = h.excerpt 
+            return `<li><a href="${url}">${title || url}</a>${excerpt ? `<p class="excerpt">${excerpt}</p>` : ''}</li>`
+          }).join('') + '</ul>'
+        }
+
+        async function doSearch(q) {
+          if (!q) {
+            resultsEl.innerHTML = ''
+            return
+          }
+          try {
+            const search = await pagefind.search(q);
+            if (! search) {
+              return;
+            }
+            const results = await Promise.all(search.results.slice(0, 10).map(r => r.data()));
+            renderResults(results)
+          } catch (e) {
+            resultsEl.innerHTML = '<p class="no-results">Fehler bei der Suche.</p>'
+            // silent fail
+          }
+        }
+
+        // Keyboard navigation: from input -> results, and within results up/down
+        input.addEventListener('keydown', (e) => {
+          if (e.key === 'ArrowDown') {
+            e.preventDefault()
+            // focus first result
+            focusResultIndex(0)
+          }
+        })
+
+        resultsEl.addEventListener('keydown', (e) => {
+          const links = getResultLinks()
+          if (links.length === 0) return
+          const active = document.activeElement
+          const idx = links.indexOf(active)
+          if (e.key === 'ArrowDown') {
+            e.preventDefault()
+            // next (wrap)
+            focusResultIndex(idx + 1)
+          } else if (e.key === 'ArrowUp') {
+            e.preventDefault()
+            // prev (wrap)
+            focusResultIndex(idx - 1)
+          } else if (e.key === 'Escape') {
+            $('#searchDialog').close()
+            setTimeout(() => input.focus(), 0)
+          }
+        }, true)
+
+        input.addEventListener('input', () => {
+          clearTimeout(timer)
+          timer = setTimeout(() => doSearch(input.value.trim()), 200)
+        })
+
+        form.addEventListener('submit', event => {
+          event.preventDefault()
+          clearTimeout(timer)
+          doSearch(input.value.trim())
+        })
+      }
+
+
+      $('#searchButton').addEventListener('click', openSearch);
+  
+      tinykeys(window, {
+        "$mod+K": event => {
+          event.preventDefault();
+          openSearch();
+        }
+      })
+
+    </script>
+  </body>
+</html>
