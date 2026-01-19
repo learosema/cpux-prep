@@ -385,7 +385,7 @@ Was zeichnet diese Methode aus?
   während der echten Aufgabenbewältigung.
 - [ ] D. Ein Umfrage-Link, der nach dem Kauf per E-Mail versendet wird.
 
-{{ spoiler('Lösung', 'C') }}
+{{ spoiler("Lösung", "C") }}
 
 ## Frage 27 (1 richtige Antwort)
 
@@ -396,7 +396,7 @@ Szenario: Ein Arzt nutzt eine App zur Dosierung von Medikamenten. Er gibt an: 'I
 - [ ] C. Nutzungsziel
 - [ ] D. Nutzungserfordernis
 
-{{ spoiler('Lösung', 'D; Es beschreibt eine fundamentale Notwendigkeit aus der Tätigkeit heraus(Patientensicherheit), ohne zu sagen, wie das System dies technisch löst.') }}
+{{ spoiler("Lösung", "D; fundamentale Notwendigkeit aus der Tätigkeit heraus (Patientensicherheit), lösungsneutral.") }}
 
 ## Frage 28 (1 richtige Antwort)
 
@@ -407,4 +407,4 @@ Welche Aussage ist ein 'Erfordernis' und KEINE 'Anforderung'?
 - [ ] C. Der Techniker kann den Wartungsbericht als CSV exportieren.
 - [ ] D. Die Fehlerquote beim Ablesen liegt unter 1%.
 
-{{ spoiler('Lösung', 'A') }}
+{{ spoiler("Lösung", "A") }}
