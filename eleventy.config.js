@@ -24,7 +24,7 @@ export default function (eleventyConfig) {
     }
   })
 
-  eleventyConfig.addTransform('remap-md-links', function (content) {
+  eleventyConfig.addTransform('htmlpost', function (content) {
     if (((this.page.outputPath || "").endsWith(".html")) === false) {
       return content;
     }
@@ -37,8 +37,18 @@ export default function (eleventyConfig) {
         anchor.setAttribute('href', href.replace(/\.md$/, '.html'))
       }
     }
+
+    for (const li of document.querySelectorAll('li')) {
+      const text = li.textContent.trim() || ''
+      if (text.startsWith('[ ]')) {
+        li.textContent = text.replace('[ ]', '')
+        li.innerHTML = `<label><input type="checkbox">&nbsp; ${li.innerHTML}</label>`
+      }
+    }
     return document.toString();
   })
+
+
 
   eleventyConfig.on('eleventy.after', async () => {
     console.info('creating search index files')

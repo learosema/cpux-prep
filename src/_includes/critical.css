@@ -7,6 +7,10 @@
   outline: 0.125em solid var(--focus-outline, currentColor);
 }
 
+:where(label) {
+  cursor: pointer;
+}
+
 html {
   color-scheme: dark light;
   overflow-x: hidden;
