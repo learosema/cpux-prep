@@ -194,18 +194,3 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [HCD-Reife steigern](hcd-reife/hcd-reife-steigern.md)
 
 </section>
-
-## Weitere Themen (nicht relevant für CPUX-F)
-
-<section class="card flow" markdown="1">
-
-- [Gestaltgesetze](regeln-fuer-die-gestaltung/gestaltgesetze.md)
-- [Typographie](prinzipien/typographie.md) (nicht relevant für CPUX-F)
-- [Farbenlehre](prinzipien/farbenlehre.md) (nicht relevant für CPUX-F)
-- [User Research](user-research.html)
-- [Tools](tools.html)
-- [Usability Testing](usability-testing.html)
-- [UX KPIs](ux-kpis.html)
-- [Green UX](green-ux.html)
-
-</section>
