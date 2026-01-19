@@ -6,7 +6,7 @@
 > und Methoden aus den Bereichen der Arbeitswissenschaft, Ergonomie
 > und Usability anwendet.
 >
-> Basiswissen Usability und User Experience
+> CPUX-F-Curriculum, S. 7
 
 Menschzentrierte Gestaltung bedeutet: bei der Entwicklung eines interaktiven Systems
 wird der Mensch in dene Mittelpunkt gestellt.

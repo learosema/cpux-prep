@@ -1,6 +1,4 @@
-# Menschzentrierte Gestaltung
-
-## Grundsätze menschzentrierter Gestaltung
+# Wesentliche Elemente der menschzentrierten Gestaltung
 
 Die Grundsätze menschzentrierter Gestaltung sind in der DIN EN ISO 9241-210
 definiert. Sie lauten:

@@ -39,17 +39,12 @@
           <input id="searchInput" name="query" type="search" aria-labelledby="searchDialogTitle"></form>
           <div class="dialog__results" id="searchResults" class="search-results" aria-live="polite"></div>
 
-          
-          
-          
           <form method="dialog">
             <button class="dialog__close">
               <svg viewBox="0 0 16 16"><path d="M1 1L15 15 M15 1 L1 15" stroke="currentColor"></path></svg>
               <span class="sr-only">schließen</span>
             </button>
           </form>
-
-
           </div>
         </dialog>
     </main>
@@ -104,7 +99,7 @@
           }
           resultsEl.innerHTML = '<ul>' + results.map(h => {
             const url = h.url 
-            const title = h.title
+            const title = h.meta?.title
             const excerpt = h.excerpt 
             return `<li><a href="${url}">${title || url}</a>${excerpt ? `<p class="excerpt">${excerpt}</p>` : ''}</li>`
           }).join('') + '</ul>'

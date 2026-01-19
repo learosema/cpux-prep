@@ -320,6 +320,10 @@ button.btn {
       border-radius: 0.25em;
       background: var(--blockquote-bg);
       border-left: 1ch solid transparent;
+      
+      & a {
+        scroll-padding: 3em;
+      }
 
       &:has(:focus) {
         border-left: 1ch solid var(--blockquote-decoration);
