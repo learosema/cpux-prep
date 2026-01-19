@@ -4,6 +4,7 @@ import { createIndex } from 'pagefind'
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/css')
   eleventyConfig.addPassthroughCopy('src/js')
+  eleventyConfig.addPassthroughCopy('src/images')
   
   eleventyConfig.addGlobalData('layout', () => 'default.njk')
   // Set global permalinks to resource.html style

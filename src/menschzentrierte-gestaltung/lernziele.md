@@ -6,6 +6,6 @@
   - Einbeziehen von Benutzern
   - Iteration basierend auf häufiger Usability-Evaluierung
   - Ansprechen der gesamten User Experience
-- [Aktivitäten der menschzentrierten Gestaltung und ihrer Wechselbeziehungen](menschzentrierte-gestaltung/aktivitaeten-der-menschzentrierten-gestaltung.md)
+- [Aktivitäten der menschzentrierten Gestaltung und ihrer Wechselbeziehungen](aktivitaeten-der-menschzentrierten-gestaltung.md)
 - Verstehen des Zwecks der Ergebnisse jder Aktivität der menschzentrierten
-  Gestaltung
+  Gestaltung (siehe Aktivitäten)

@@ -4,14 +4,16 @@ Dies ist Lea’s Versuch, sich auf die Prüfung für CPUX-F vorzubereiten. Sie n
 sich jeden Tag etwas Zeit, um die Inhalte aus dem
 [Lernmaterial](quellenangaben.md) für sich zusammenzufassen.
 
-## Wesentliche Elemente der Menschzentrierten Gestaltung
+## Der Menschzentrierte Gestaltungsprozess
 
 <section class="card flow" markdown="1">
 
-- Lernziele
-- Wesentliche Elemente der Gestaltung
-- Aktivitäten der menschzentrierten Gestaltung und ihre Wechselbeziehungen
-- Zweck der Ergebnisse jeder Aktivität der menschzentrierten Gestaltung
+- [Lernziele](menschzentrierte-gestaltung/lernziele.md)
+- [Definition](menschzentrierte-gestaltung/definition.md)
+- [Aktivitäten der menschzentrierten Gestaltung](menschzentrierte-gestaltung/aktivitaeten-der-menschzentrierten-gestaltung.md)
+- [Wesentliche Elemente der menschzentrierten Gestaltung](menschzentrierte-gestaltung/wesentliche-elemente-der-menschzentrierten-gestaltung.md)
+- [Exkurs: UX Professional](menschzentrierte-gestaltung/exkurs-ux-professional.md)
+- [Exkurs: Integration in den Entwicklungsprozess](menschzentrierte-gestaltung/exkurs-integration-in-den-entwicklungsprozess.md)
 
 </section>
 
@@ -38,9 +40,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 
 </section>
 
-## Planung der menschzentrierten Gestaltung
+## Planung der Menschzentrierten Gestaltung
 
-<section class="grid">
 <section class="card flow" markdown="1">
 
 ### Planung einer menschzentrierten Gestaltung
@@ -49,18 +50,10 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Menschzentrierte Qualitätsziele](planung-hcd/qualitaetsziele.md)
 
 </section>
-<section class="card flow" markdown="1">
 
-### Menschzentrierte Gestaltung
+## Verstehen und Festlegen des Nutzungskontextes
 
-- [Lernziele](menschzentrierte-gestaltung/lernziele.md)
-- [Definition](menschzentrierte-gestaltung/definition.md)
-- [Aktivitäten der menschzentrierten Gestaltung](menschzentrierte-gestaltung/aktivitaeten-der-menschzentrierten-gestaltung.md)
-- [Wesentliche Elemente der menschzentrierten Gestaltung](menschzentrierte-gestaltung/wesentliche-elemente-der-menschzentrierten-gestaltung.md)
-- [Exkurs: UX Professional](menschzentrierte-gestaltung/exkurs-ux-professional.md)
-- [Exkurs: Integration in den Entwicklungsprozess](menschzentrierte-gestaltung/exkurs-integration-in-den-entwicklungsprozess.md)
-
-</section>
+<section class="grid">
 <section class="card flow" markdown="1">
 
 ### Nutzungskontext: Definitionen
