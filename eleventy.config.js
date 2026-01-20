@@ -5,6 +5,18 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/css')
   eleventyConfig.addPassthroughCopy('src/js')
   eleventyConfig.addPassthroughCopy('src/images')
+
+  // using `{{ spoiler('label', 'content') }}` in Nunjucks/Markdown.
+  eleventyConfig.addGlobalData('spoiler', () => {
+    return (label, content) => {
+      return `<details>
+        <summary>${label}</summary>
+        <div>
+          ${content}
+        </div>
+      </details>`;
+    }
+  })
   
   eleventyConfig.addGlobalData('layout', () => 'default.njk')
   // Set global permalinks to resource.html style

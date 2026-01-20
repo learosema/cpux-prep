@@ -369,7 +369,7 @@ Welche Aussagen sind weder Ziel noch Erfordernis?
 - [ ] D. Zusatzleistungen müssen im Buchungsprozess eindeutig erkennbar sein.
 - [ ] E. Das Hotel möchte sich als Premium-Wellness-Marke positionieren.
 
-{{ spoiler("Lösung", "A, E sind richtig. A = UX-Reaktion, E = Unternehmensanforderung, B = Ziel, C, D = Nutzungsanforderungen. Eselsbrücke: Ziel → Was will erreicht werden?. Erfordernis → Was muss gegeben sein? Nutzungsanforderung → Was soll der Nutzer tun können? UX → Wie fühlt es sich an? Unternehmen → Was will die Firma") }}>
+{{ spoiler("Lösung", "A, E sind richtig. A = UX-Reaktion, E = Unternehmensanforderung, B = Ziel, C, D = Nutzungsanforderungen. Eselsbrücke: Ziel → Was will erreicht werden?. Erfordernis → Was muss gegeben sein? Nutzungsanforderung → Was soll der Nutzer tun können? UX → Wie fühlt es sich an? Unternehmen → Was will die Firma") }}
 
 ## Frage 26 (1 richtige Antwort)
 
