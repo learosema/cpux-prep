@@ -30,6 +30,14 @@
     <main>
       <article class="wrapper flow">
       {{ content | safe }}
+
+      <hr style="--flow-space: 8em;">
+          {% set previousLink = collections.toc | getPreviousCollectionItem %}
+{% set nextLink = collections.toc | getNextCollectionItem %}
+
+{% if previousLink %}<a href="{{ previousLink.url }}">zurück</a>{% endif %}
+{% if nextLink %}| <a href="{{ nextLink.url }}">vor</a>{% endif %}
+
       </article>
       <dialog class="dialog dialog--search" id="searchDialog">
         <div class="dialog__body">
@@ -51,6 +59,8 @@
     <footer>
       made with love by <a rel="me" href="https://lea.lgbt/@lea" target="_blank">Lea</a>
     </footer>
+
+
     <script type="module">
       import { tinykeys } from '{{ meta.root}}/js/tinykeys.module.js';
       import mermaid from 'https://esm.sh/mermaid';
