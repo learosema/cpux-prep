@@ -126,7 +126,7 @@ Welche Aussage zur Barrierefreiheit ist fachlich korrekt?
 - [ ] D. Barrierefreiheit ist Teil der Ästhetik
 - [ ] E. Barrierefreiheit ist durch gutes UX-Design automatisch erfüllt
 
-{{ spoiler('Lösung', 'C') }}
+{% spoiler "Lösung", "C" %}
 
 ## Frage 11 (2 richtige Antworten)
 
@@ -134,17 +134,17 @@ Tante Erna (72) möchte auf einer Hotelbuchungswebseite ein Einzelzimmer mit
 Frühstück für ein verlängertes Wochenende buchen,
 ohne dabei ihre Kreditkartendaten telefonisch durchgeben zu müssen.
 
-Welche der folgenden Aussagen beschreiben Aufgaben
-oder Teilaufgaben von Tante Erna und keine Nutzungsanforderungen oder Systemerfordernisse?
+Welche der folgenden Aussagen beschreiben Teilaufgaben von Tante
+Erna und keine Aufgaben, Nutzungsanforderungen oder Erfordernisse?
 
-- [ ] A. „Ein geeignetes Hotel finden“
+- [ ] A. „Ein Hotelaufenthalt buchen“
 - [ ] B. „Das System muss eine Suchfunktion anbieten“
 - [ ] C. „Reisedatum eingeben“
 - [ ] D. „Ein Zimmer auswählen“
 - [ ] E. „Die Buchung darf maximal 5 Minuten dauern“
-- [ ] F. „Die Buchung abschließen“
+- [ ] F. „Die Buchung kann storniert werden“
 
-<details><summary>Lösung</summary>A, F (C,D sind Teilaufgaben, B,E sind Anforderungen)</details>
+<details><summary>Lösung</summary>C, D sind Teilaufgaben, A ist die Aufgabe, B, E, F sind Nutzungsanforderungen)</details>
 
 ## Frage 12
 
@@ -369,7 +369,7 @@ Welche Aussagen sind weder Ziel noch Erfordernis?
 - [ ] D. Zusatzleistungen müssen im Buchungsprozess eindeutig erkennbar sein.
 - [ ] E. Das Hotel möchte sich als Premium-Wellness-Marke positionieren.
 
-{{ spoiler("Lösung", "A, E sind richtig. A = UX-Reaktion, E = Unternehmensanforderung, B = Ziel, C, D = Nutzungsanforderungen. Eselsbrücke: Ziel → Was will erreicht werden?. Erfordernis → Was muss gegeben sein? Nutzungsanforderung → Was soll der Nutzer tun können? UX → Wie fühlt es sich an? Unternehmen → Was will die Firma") }}
+{% spoiler "Lösung", "A, E sind richtig. A = UX-Reaktion, E = Unternehmensanforderung, B = Ziel, C, D = Nutzungsanforderungen. Eselsbrücke: Ziel → Was will erreicht werden?. Erfordernis → Was muss gegeben sein? Nutzungsanforderung → Was soll der Nutzer tun können? UX → Wie fühlt es sich an? Unternehmen → Was will die Firma" %}
 
 ## Frage 26 (1 richtige Antwort)
 
@@ -385,7 +385,7 @@ Was zeichnet diese Methode aus?
   während der echten Aufgabenbewältigung.
 - [ ] D. Ein Umfrage-Link, der nach dem Kauf per E-Mail versendet wird.
 
-{{ spoiler("Lösung", "C") }}
+{% spoiler "Lösung", "C" %}
 
 ## Frage 27 (1 richtige Antwort)
 
@@ -396,7 +396,7 @@ Szenario: Ein Arzt nutzt eine App zur Dosierung von Medikamenten. Er gibt an: 'I
 - [ ] C. Nutzungsziel
 - [ ] D. Nutzungserfordernis
 
-{{ spoiler("Lösung", "D; fundamentale Notwendigkeit aus der Tätigkeit heraus (Patientensicherheit), lösungsneutral.") }}
+{% spoiler "Lösung", "D; fundamentale Notwendigkeit aus der Tätigkeit heraus (Patientensicherheit), lösungsneutral." %}
 
 ## Frage 28 (1 richtige Antwort)
 
@@ -407,4 +407,4 @@ Welche Aussage ist ein 'Erfordernis' und KEINE 'Anforderung'?
 - [ ] C. Der Techniker kann den Wartungsbericht als CSV exportieren.
 - [ ] D. Die Fehlerquote beim Ablesen liegt unter 1%.
 
-{{ spoiler("Lösung", "A") }}
+{% spoiler "Lösung", "A" %}

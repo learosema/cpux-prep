@@ -6,16 +6,14 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/js')
   eleventyConfig.addPassthroughCopy('src/images')
 
-  // using `{{ spoiler('label', 'content') }}` in Nunjucks/Markdown.
-  eleventyConfig.addGlobalData('spoiler', () => {
-    return (label, content) => {
-      return `<details>
-        <summary>${label}</summary>
-        <div>
-          ${content}
-        </div>
-      </details>`;
-    }
+  // Shortcode `{% spoiler summary, message %}` for Nunjucks/Markdown.
+  eleventyConfig.addShortcode('spoiler', function (summary, message) {
+    return `<details>
+      <summary>${summary}</summary>
+      <div>
+        ${message}
+      </div>
+    </details>`;
   })
   
   eleventyConfig.addGlobalData('layout', () => 'default.njk')
