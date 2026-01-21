@@ -32,11 +32,12 @@
       {{ content | safe }}
 
       <hr style="--flow-space: 8em;">
-          {% set previousLink = collections.toc | getPreviousCollectionItem %}
-{% set nextLink = collections.toc | getNextCollectionItem %}
+        {% set previousLink = collections.toc | getPreviousCollectionItem %}
+        {% set nextLink = collections.toc | getNextCollectionItem %}
 
-{% if previousLink %}<a href="{{ previousLink.url }}">zurück</a>{% endif %}
-{% if nextLink %}| <a href="{{ nextLink.url }}">vor</a>{% endif %}
+        {% if previousLink %}<a href="{{ meta.root }}{{ previousLink.url }}">zurück</a>{% endif %}
+        {% if previousLink and nextLink%}|{% endif %}
+        {% if nextLink %}<a href="{{ meta.root }}{{ nextLink.url }}">vor</a>{% endif %}
 
       </article>
       <dialog class="dialog dialog--search" id="searchDialog">
