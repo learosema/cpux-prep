@@ -35,9 +35,9 @@
         {% set previousLink = collections.toc | getPreviousCollectionItem %}
         {% set nextLink = collections.toc | getNextCollectionItem %}
 
-        {% if previousLink %}<a href="{{ meta.root }}{{ previousLink.url }}">zurück</a>{% endif %}
+        {% if previousLink %}<a id="prev-link" href="{{ meta.root }}{{ previousLink.url }}">zurück (<kbd>shift</kbd>+<kbd>P</kbd>)</a>{% endif %}
         {% if previousLink and nextLink%}|{% endif %}
-        {% if nextLink %}<a href="{{ meta.root }}{{ nextLink.url }}">vor</a>{% endif %}
+        {% if nextLink %}<a id="next-link" href="{{ meta.root }}{{ nextLink.url }}">vor (<kbd>shift</kbd>+<kbd>N</kbd>)</a>{% endif %}
 
       </article>
       <dialog class="dialog dialog--search" id="searchDialog">
@@ -181,6 +181,18 @@
         "$mod+K": event => {
           event.preventDefault();
           openSearch();
+        },
+        "Shift+N": event => {
+          if ((document.activeElement.nodeName !== 'INPUT') ||
+            (document.activeElement.nodeName !== 'TEXTAREA')) {
+            $('#next-link').click();
+          }
+        },
+        "Shift+P": event => {
+          if ((document.activeElement.nodeName !== 'INPUT') ||
+            (document.activeElement.nodeName !== 'TEXTAREA')) {
+            $('#prev-link').click();
+          }
         }
       })
 
