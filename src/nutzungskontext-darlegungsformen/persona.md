@@ -34,4 +34,6 @@ Es hilft bei der Vorstellung einer realen Person.
 
 ## Beispiel
 
-Siehe [CPUX-F-Curriculum, S. 28](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf#page=28)
+Siehe [CPUX-F-Curriculum, S. 29](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf#page=29)
+
+{% include "figure-persona.njk" %}

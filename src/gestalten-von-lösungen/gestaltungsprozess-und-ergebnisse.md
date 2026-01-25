@@ -26,7 +26,9 @@ Dazu gehören:
 ## Der Prozess ist iterativ
 
 Das bedeutet: Man wiederholt Schritte mehrmals.
-In Abbildung 5 ist das durch Pfeile mit Streifen gezeigt.
+In der folgenden Abbildung ist das durch Pfeile mit Streifen gezeigt.
+
+{% include "figure-gestaltung.njk" %}
 
 Wenn bei einer Prüfung herauskommt, dass das System noch nicht gut ist,
 wird es überarbeitet. Das passiert so lange, bis es gut genug ist.

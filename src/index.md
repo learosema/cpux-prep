@@ -10,8 +10,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 
 - [Lernziele](menschzentrierte-gestaltung/lernziele.md)
 - [Definition](menschzentrierte-gestaltung/definition.md)
-- [Aktivitäten der menschzentrierten Gestaltung](menschzentrierte-gestaltung/aktivitaeten-der-menschzentrierten-gestaltung.md)
 - [Wesentliche Elemente der menschzentrierten Gestaltung](menschzentrierte-gestaltung/wesentliche-elemente-der-menschzentrierten-gestaltung.md)
+- [Aktivitäten der menschzentrierten Gestaltung](menschzentrierte-gestaltung/aktivitaeten-der-menschzentrierten-gestaltung.md)
 - [Exkurs: UX Professional](menschzentrierte-gestaltung/exkurs-ux-professional.md)
 - [Exkurs: Integration in den Entwicklungsprozess](menschzentrierte-gestaltung/exkurs-integration-in-den-entwicklungsprozess.md)
 
