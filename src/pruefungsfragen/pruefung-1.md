@@ -11,8 +11,10 @@ Welcher der folgenden Aspekte ist Bestandteil der menschzentrierten Gestaltung?
 - [ ] C. Die Analyse von Konkurrenzprodukten, um mögliche Fallstricke zu verstehen
 - [ ] D. Die Einbeziehung der Benutzer während des gesamten Gestaltungsprozesses
 - [ ] E. Regelmäßige Vorführungen des entstehenden interaktiven Systems vor Benutzern
-- [ ] F. Genaue Zeitpläne zur Erreichung von Usability-Meilensteinen, 
+- [ ] F. Genaue Zeitpläne zur Erreichung von Usability-Meilensteinen,
          sodass der Fortschritt überwacht werden kann
+
+{% spoiler "Lösung 1", "D" %}
 
 ## Frage 2 (2 richtige Antworten)
 
@@ -36,6 +38,8 @@ kennzeichnen.
 organisatorische Anforderungen” sollte „Evaluieren der
 Gestaltungslösung gegen Nutzungsanforderungen“ lauten.
 
+{% spoiler "Lösung 2", "E+F" %}
+
 ## Frage 3 (2 richtige Antworten)
 
 Welche zwei der folgenden HCD-Ergebnisse werden während der
@@ -48,6 +52,8 @@ erzeugt?
 - [ ] D. Ist-Szenarien
 - [ ] E. Nutzungsanforderungen
 - [ ] F. Low-Fidelity-Prototyp
+
+{% spoiler "Lösung 3", "C+D" %}
 
 ## Frage 4 (1 richtige Antwort)
 
@@ -63,6 +69,8 @@ Welcher eine Aspekt der Usability wird von dieser Website verletzt?
 - [ ] D. Effektivität
 - [ ] E. Zufriedenstellung
 - [ ] F. Geschwindigkeit
+
+{% spoiler "Lösung 4", "D" %}
 
 ## Frage 5 (2 richtige Antworten)
 
@@ -85,6 +93,8 @@ Beispiel für die Vermeidung von Schäden durch die Benutzung?
 - [ ] F. Putzmittelflaschen haben einen Verschluss, 
   den Kinder nicht öffnen können.
 
+{% spoiler "Lösung 5", "C+F" %}
+
 ## Frage 6 (2 richtige Antworten)
 
 Hinsichtlich der Website einer Fluggesellschaft, welche zwei der
@@ -105,6 +115,8 @@ einer Suche nach 'Strassbourg' nicht 'Strasbourg' vorgeschlagen.
 - [ ] F. Nach dem Flug ärgern sich die Benutzer über unerwünschte
 Marketing-E-Mails der Fluggesellschaft.
 
+{% spoiler "Lösung 6", "D+F" %}
+
 ## Frage 7 (2 richtige Antworten)
 
 Welche zwei der folgenden Komoponentn sind für den Autofahrer Teil der
@@ -116,6 +128,8 @@ Benutzungsschnittstelle des Autos?
 - [ ] D. Türgriff
 - [ ] E. Auspuff
 - [ ] F. Bremsscheibe
+
+{% spoiler "Lösung 7", "A+D" %}
 
 ## Frage 8 (1 richtige Antwort)
 
@@ -136,6 +150,8 @@ nationalen oder internationalen Bankkarte Geld abzuheben.
 - [ ] F. Benutzer, die eine Quittung anfordern, müssen diese verstehen
 können.
 
+{% spoiler "Lösung", "C" %}
+
 ## Frage 9 (1 richtige Antwort)
 
 Welche eine der folgenden Methoden ist NICHT geeignet, um den
@@ -151,6 +167,8 @@ beobachten
 durchführen
 - [ ] F. Durchführung von Fokusgruppen zu Erfordernissen, die
 zukünftige Geldautomaten erfüllen müssen
+
+{% spoiler "Lösung 9", "A" %}
 
 ## Frage 10 (1 richtige Antwort)
 
@@ -169,6 +187,8 @@ abhebt.
   kein Benutzer.
 - [ ] F. Thomas ist Benutzer des Geldautomaten, aber kein
   Interessenvertreter.
+
+{% spoiler "Lösung 10", "C" %}
 
 ## Frage 11 (2 richtige Antworten)
 
@@ -192,6 +212,8 @@ Welche zwei der folgenden Aussagen sind richtig?
 - [ ] E. Bernd und Carolin sind indirekte Benutzer von HappyHolidays.com.
 - [ ] F. Bernd ist ein indirekter Benutzer von HappyHolidays.com.
 
+{% spoiler "Lösung 11", "D+F" %}
+
 ## Frage 12 (2 richtige Antworten)
 
 Welche zwei der folgenden Personen sind Interessenvertreter, aber
@@ -210,6 +232,8 @@ man die Autovermietungs-Website benutzt
 - [ ] F. Ein Mitarbeiter im Marketing, der über die Autovermietungs-Website
   eine Werbeaktion mit „10 % Rabatt auf die Kfz-Versicherung” laufen lässt,
   die für alle Benutzer gilt, die direkt über die Website ein Auto reservieren
+
+{% spoiler "Lösung 12", "C+F" %}
 
 ## Frage 13 (1 richtige Antwort)
 
@@ -233,6 +257,8 @@ Systems zu tun beabsichtigen
 - [ ] F. Eine Beschreibung einer Gruppe von Benutzern und was sie bei
 der Benutzung des interaktiven Systems tun möchten
 
+{% spoiler "Lösung 13", "A" %}
+
 ## Frage 14 (2 richtige Antworten)
 
 Welche zwei der folgenden Aussagen beschreiben am besten, warum
@@ -255,6 +281,8 @@ von Nutzungsanforderungen verwendet.
 müssen alle Teilaufgaben, die für die Erledigung dieser Aufgabe
 wichtig sind, berücksichtigt werden.
 
+{% spoiler "Lösung 14", "C+F" %}
+
 ## Frage 15 (2 richtige Antworten)
 
 Welche zwei der folgenden Fragen sind am besten geeignet, wenn
@@ -270,6 +298,8 @@ einer Hotelbuchungs-Website zu verstehen?
 - [ ] E. Wie sind derzeit die finanziellen Aussichten für neue Hotels?
 - [ ] F. Wie beurteilen Sie die Aussage: „Die neue Hotelbuchungswebsite
   entspricht meinen Erwartungen“?
+
+{% spoiler "Lösung 15", "A+D" %}
 
 ## Frage 16 (1 richtige Antwort)
 
@@ -290,6 +320,8 @@ Fragen des Nutzungskontexts aus verschiedenen Blickwinkeln zu
 gewinnen
 - [ ] F. Ein interaktives System evaluieren
 
+{% spoiler "Lösung 16", "E" %}
+
 ## Frage 17 (2 richtige Antworten)
 
 Ein Kollege plant Interviews mit den Benutzern eines
@@ -305,6 +337,8 @@ Interviewfrage am besten?
 - [ ] D. Neutral
 - [ ] E. Offen
 - [ ] F. Summativ
+
+{% spoiler "Lösung 17", "D+E" %}
 
 ## Frage 18 (2 richtige Antworten)
 
@@ -339,6 +373,8 @@ Wochenende gelegentlich ihren Bruder in Lübeck. Diese Reise
 mit dem Zug zu machen, ist ihr zu teuer und die Busfahrt dauert
 ihr zu lange. Daher mietet sie normalerweise ein Auto.
 
+{% spoiler "Lösung 18", "A+B" %}
+
 ## Frage 19 (1 richtige Antwort)
 
 Welcher eine Ausdruck charakterisiert die folgende Beschreibung am
@@ -369,6 +405,8 @@ Hilfsbereitschaft, nicht in Rückstand geraten.
 - [ ] E. Benutzergruppe
 - [ ] F. Benutzergruppenprofil
 
+{% spoiler "Lösung 19", "B" %} 
+
 ## Frage 20 (2 richtige Antworten)
 
 Welche zwei der folgenden Aussagen über Erfordernisse sind richtig?
@@ -381,6 +419,8 @@ Erfordernissen für eine andere Benutzergruppe im gleichen Nutzungskontext unter
 - [ ] E. Erfordernisse sind identisch mit Benutzerzielen.
 - [ ] F. Erfordernisse werden verwendet, um gute Fehlermeldungen zu
 formulieren
+
+{% spoiler "Lösung 20", "A+B" %}
 
 ## Frage 21 (1 richtige Antwort)
 
@@ -398,6 +438,8 @@ Benutzer müssen die Aufgabe in weniger als 5 Minuten erledigen können.
 - [ ] D. Erfordernis
 - [ ] E. Quantitative Nutzungsanforderung
 - [ ] F. Qualitative Nutzungsanforderung
+
+{% spoiler "Lösung 21", "E" %}
 
 ## Frage 22 (2 richtige Antworten)
 
@@ -417,6 +459,8 @@ Hotels widerspiegeln.
 - [ ] F. Benutzer müssen in der Lage sein, eine Zimmerbuchung zu
 stornieren.
 
+{% spoiler "Lösung 22", "A+F" %}
+
 ## Frage 23 (2 richtige Antworten)
 
 Welche zwei der folgenden Aspekte sind Teil der
@@ -431,6 +475,8 @@ und Inhalt verwendet werden
 - [ ] F. Die Struktur der Informationen, die dem Benutzer zur Verfügung
 stehen müssen
 
+{% spoiler "Lösung 23", "D+F" %}
+
 ## Frage 24 (1 richtige Antwort)
 
 Welche eine der folgenden Methoden ist am nützlichsten für die
@@ -442,6 +488,8 @@ Entwicklung der Navigationsstruktur einer neuen Website?
 - [ ] D. Usability-Inspektion eines High-Fidelity-Prototyps
 - [ ] E. Card-Sorting
 - [ ] F. Storyboard
+
+{% spoiler "Lösung 24", "E" %}
 
 ## Frage 25 (1 richtige Antwort)
 
@@ -456,6 +504,8 @@ Abbildung am besten?
 - [ ] D. Styleguide
 - [ ] E. Storyboard
 - [ ] F. Wireframe
+
+{% spoiler "Lösung 25", "F" %}
 
 ## Frage 26 (1 richtige Antwort)
 
@@ -476,6 +526,8 @@ Skizzen am besten?
 - [ ] E. Styleguide
 - [ ] F. Storyboard
 
+{% spoiler "Lösung 26", "B" %}
+
 ## Frage 27 (2 richtige Antworten)
 
 Welche zwei der folgenden Begriffe sind Interaktionsprinzipien?
@@ -486,6 +538,8 @@ Welche zwei der folgenden Begriffe sind Interaktionsprinzipien?
 - [ ] D. Aufgabenangemessenheit
 - [ ] E. Vermeidung von Schäden durch die Benutzung
 - [ ] F. Barrierefreiheit
+
+{% spoiler "Lösung 27", "A+D" %}
 
 ## Frage 28 (1 richtige Antwort)
 
@@ -508,6 +562,8 @@ einzuholen
 interaktiven System zu interagieren
 - [ ] F. Ein Datenmodell, das abbildet, was die Teilnehmer nach einer
 Usability-Testsitzung über das interaktive System dachten
+
+{% spoiler "Lösung 28", "C" %}
 
 ## Frage 29 (1 richtige Antwort)
 
@@ -534,6 +590,8 @@ Interface Designer die alleinige Verantwortung zu überlassen.
 um festzustellen, ob ein Design den organisatorischen
 Anforderungen entspricht oder nicht.
 
+{% spoiler "Lösung 29", "C" %}
+
 ## Frage 30 (1 richtige Antwort)
 
 Welche eine der folgenden Aussagen beschreibt den Begriff „Design
@@ -555,6 +613,8 @@ einem gegebenen Nutzungskontext, die ein Gestaltungsproblem,
 eine allgemeine Lösung und Beispiele für die Anwendung dieser
 beschreibt
 
+{% spoiler "Lösung 30", "F" %}
+
 ## Frage 31 (2 richtige Antworten)
 
 Welche zwei der folgenden Methoden werden häufig zur UsabilityEvaluierung eingesetzt?
@@ -565,6 +625,8 @@ Welche zwei der folgenden Methoden werden häufig zur UsabilityEvaluierung einge
 - [ ] D. Erstellung von Personas
 - [ ] E. Erstellung von Storyboards
 - [ ] F. Usability-Inspektion
+
+{% spoiler "Lösung 31", "B+F" %}
 
 ## Frage 32 (1 richtige Antwort)
 
@@ -600,6 +662,8 @@ repräsentativen Aufgaben auf der Website auszuführen, damit sie
 „den Schmerz der Benutzer spüren können“.
 - [ ] F. Führen Sie eine Usability-Inspektion der Website durch.
 
+{% spoiler "Lösung 32", "B" %}
+
 ## Frage 33 (1 richtige Antwort)
 
 Welche eine der folgenden Aussagen beschreibt einen Usability-Test
@@ -619,7 +683,9 @@ Systems lösen.
 - [ ] F. Repräsentative Benutzer testen das interaktive System, um
 Fehler und Mängel zu finden.
 
-## Frage 34 (2 richtige Antworten) 
+{% spoiler "Lösung 33", "E" %}
+
+## Frage 34 (2 richtige Antworten)
 
 Welche zwei der folgenden Aktivitäten gehören zur Vorbereitung oder
 Planung eines Usability-Tests?
@@ -631,6 +697,8 @@ der Usability-Testsitzung passieren wird
 - [ ] D. Rekrutierung geeigneter Usability-Testteilnehmer
 - [ ] E. Verfassen des Usability-Testberichts
 - [ ] F. Verfassen des Interview-Leitfadens
+
+{% spoiler "Lösung 34", "B+D" %}
 
 ## Frage 35 (1 richtige Antwort)
 
@@ -649,6 +717,8 @@ Sie müssen das Auto morgen früh um 9 Uhr abholen und 4 Tage
 später mittags am selben Ort zurückgeben.
 - [ ] E. Stornieren Sie eine Reservierung, die Sie zuvor getätigt haben.
 - [ ] F. Wie hoch ist die Miete eines Navigationssystems?
+
+{% spoiler "Lösung 35","B" %}
 
 ## Frage 36 (1 richtige Antwort)
 
@@ -670,6 +740,8 @@ User Experience zu erfassen
 - [ ] F. Die Fragen, die am Ende eines kontextuellen Interviews gestellt
 werden
 
+{% spoiler "Lösung 36", "D" %}
+
 ## Frage 37 (1 richtige Antwort)
 
 Sie führen einen Usability-Test einer neuen Autovermietungs-Website
@@ -688,6 +760,8 @@ herauszufinden.
 - [ ] F. Ich konnte nicht herausfinden, ob ich ein Auto in Paris ausleihen
 und in Madrid zurückgeben kann.
 
+{% spoiler "Lösung 37", "C" %}
+
 ## Frage 38 (1 richtige Antwort)
 
 Welcher eine der folgenden Begriffe ist KEINE typische Bewertung
@@ -699,6 +773,8 @@ eines Usability-Befunds?
 - [ ] D. Kritisches Problem
 - [ ] E. Essenzielles Problem (muss unabhängig von den Kosten behoben werden)
 - [ ] F. Katastrophales Problem (existenzielle Bedrohung)
+
+{% spoiler "Lösung 38", "E" %}
 
 ## Frage 39 (1 richtige Antwort)
 
@@ -715,6 +791,8 @@ bestimmten Thema führt
 - [ ] E. Eine Evaluierung, bei der repräsentative Benutzer bestimmte
 Aufgaben am interaktiven System ausführen, um UsabilityProbleme zu identifizieren
 - [ ] F. Eine Überprüfung (Inspektion) der Ergebnisse eines kontextuellen Interviews
+
+{% spoiler "Lösung 38", "C" %} 
 
 ## Frage 40 (1 richtige Antwort)
 
@@ -739,4 +817,6 @@ untersucht haben.
 oder mehrerer Benutzergruppen über vorher festgelegte Fragen
 der Usability.
 
-[zu den Lösungen](loesungen-1.md)
+{% spoiler "Lösung 40", "A" %} 
+
+[zu den Lösungen mit Erläuiterungen](loesungen-1.md)
