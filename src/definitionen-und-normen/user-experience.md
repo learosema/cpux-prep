@@ -18,38 +18,12 @@ und wie subjektiv Zufrieden Benutzer während der Benutzung sind.
 Das folgende Diagramm veranschaulicht die Beziehung zwischen User Experience und
 Usability.
 
-```mermaid
-block-beta
-    columns 1
-    a["User Experience"]
-    block:group1
-        columns 3
-        block:anticipated
-            columns 1
-            vor["vor der Benutzung"]
-            Erwartung
-        end
-        block:usability
-            columns 1
-            current["tatsächliche Nutzung"]
-            usability_caption["Usability"]
-            block:eez
-                Effizienz
-                Effektivität
-                Zufriedenstellung["Zufriedenstellung während der Benutzung"]
-            end
-        end
-        block:afterwards
-            columns 1
-            danach["nach der Benutzung"]
-            fulfil["Erfüllung der Erwartungen"]
-        end
-    end
-```
+{% include "figure-user-experience.njk" %}
 
 ### Beispiele
 
-- Vorstellungen über ein Produkt, wenn es im Einkaufsregal steht. Weckt gewisse Erwartungen
+- Vorstellungen über ein Produkt, wenn es im Einkaufsregal steht. 
+  Weckt gewisse Erwartungen
 - Je nachdem, ob die Verpackung für uns ansprechbar ist oder nicht,
   kaufen wir es oder nicht
 
@@ -70,9 +44,9 @@ block-beta
 Das Erlebnis während der Nutzung beeinflusst dann die Zufriedenstellung nach
 der Benutzung (mit etwas Abstand, Reflexion)
 
-Arbeitsergebnisse, die aus der Benutzung des Systems entstanden sind, führen zu weiteren
-positiven/negativen Erfahrungen, was auch die Zufriedenstellung des Systems
-nach der Benutzung beeinflusst.
+Arbeitsergebnisse, die aus der Benutzung des Systems entstanden sind,
+führen zu weiteren positiven/negativen Erfahrungen, was auch die
+Zufriedenstellung des Systems nach der Benutzung beeinflusst.
 
 Die Zufriedenstellung nach der Benutzung beeinflusst die gesamte User Experience.
 Sie kann aber auch durch Vorgänge beeinflusst werden, die nichts mit der

@@ -86,6 +86,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [Benutzergruppenprofile](nutzungskontext-darlegungsformen/benutzergruppenprofile.md)
 - [Ist-Szenario](nutzungskontext-darlegungsformen/ist-szenario.md)
 - [Aufgabenmodell](nutzungskontext-darlegungsformen/aufgabenmodell.md)
+- [Persona](nutzungskontext-darlegungsformen/persona.md)
+- [User Journey Map](nutzungskontext-darlegungsformen/user-journey-map.md)
 
 </section>
 <section class="card flow" markdown="1">

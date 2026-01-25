@@ -28,3 +28,7 @@ Wichtige Punkte:
 - Auch in der Designphase ist es wichtig, Gefühle und Probleme zu zeigen,
   selbst, wenn sie außerhalb des Projekts liegen.
 - Nutzer und andere Beteiligte können mithelfen, um die Map besser zu machen.
+
+## Beispiel
+
+Siehe [CPUX-F Curriculum, S. 31](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf#page=31)
