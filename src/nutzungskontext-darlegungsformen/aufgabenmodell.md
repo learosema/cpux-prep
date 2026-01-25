@@ -6,6 +6,9 @@
 >
 > [CPUX-F Curriculum, S. 29](https://www.uxqb.org/public/documents/CPUX-F_DE_Curriculum-und-Glossar.pdf)
 
+Ein Aufgabenmodell ist eine Liste von Teilaufgaben für jede Aufgabe,
+die User erledigen müssen, um ihre Ziele zu erreichen.
+
 Aufgabenmodelle sollen UX Professionals und Interessenvertretern helfen,
 Aufgaben zu verstehen, mit denen sie nicht vertraut sind.
 
@@ -16,7 +19,7 @@ Operationen können beispielsweise Chirurgen, OP-Schwestern und UX
 Professionals gemeinsam Aufgabenmodelle entwickeln, die helfen,
 den komplexen Nutzungskontext zu verstehen.
 
-Aufgabenmodelle helfen den Designern zu verstehen, was die Benutzer t‚un und welche
+Aufgabenmodelle helfen den Designern zu verstehen, was die Benutzer tun und welche
 Entscheidungen sie bei der Ausführung einer Aufgabe treffen.
 
 Dies ermöglicht, ein System zu entwerfen, das für die Aufgabe geeignet ist.
