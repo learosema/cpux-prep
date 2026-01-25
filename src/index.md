@@ -196,3 +196,8 @@ sich jeden Tag etwas Zeit, um die Inhalte aus dem
 - [HCD-Reife steigern](hcd-reife/hcd-reife-steigern.md)
 
 </section>
+
+## Öffentliche Probeprüfung
+
+- [Öffentliche Prüfung](pruefungsfagen/pruefung-1.md)
+- [Lösungen](pruefungsfragen/loesungen-1.md)
